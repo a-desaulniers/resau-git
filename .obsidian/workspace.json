@@ -35,30 +35,6 @@
             "id": "50766323b9fed2c8",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Attachments/Header Fermilabs 11th employee_0.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "Header Fermilabs 11th employee_0"
-            }
-          },
-          {
-            "id": "8ca72a59f8a8e114",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Attachments/YMCA-langues-modified.png"
-              },
-              "icon": "lucide-image",
-              "title": "YMCA-langues-modified"
-            }
-          },
-          {
-            "id": "ec5102bd4833d8d8",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "aboutme.md",
@@ -70,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -211,22 +187,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec5102bd4833d8d8",
+  "active": "50766323b9fed2c8",
   "lastOpenFiles": [
-    "index.md",
+    "Attachments/Header Fermilabs 11th employee_0.jpg",
     "aboutme.md",
-    "().md",
-    "Attachments/PXL_20240520_014321325-modified.png",
-    "PXL_20240520_014321325.jpg",
-    "Pasted image 20241019212717.png",
-    "Attachments/atlas-class.jpg",
-    "Attachments/1726149776392.jpg",
+    "Attachments/Group_Pic.qHcXHCGh.jpg",
+    "Attachments/clip_image008.MeLSYpql.jpg",
+    "Attachments/Group_Pic.NuRvmTYK.jpg",
+    "Attachments/clip_image002.IIZzVGhM.png",
+    "Attachments/capture.CPeXEvpB.png",
+    "Attachments/atlas-class.znvJMBbn.jpg",
+    "Attachments/1726149776392.Zclvfklc.jpg",
     "Attachments/YMCA-langues-modified.png",
-    "Attachments/Pasted image 20241019211759.png",
-    "MemLogo_Y transparent logo.png",
+    "Attachments/Figure-A-Six-methods-for-visualizing-the-same-2D-vector-field-They-include-1-icons-on.RQwvOEUA.png",
+    "Attachments/Header Fermilabs 11th employee_0.NoDGpTxY.jpg",
+    "index.md",
+    "().md",
     "atlas-class.jpg.~tmp",
-    "Attachments/Pasted image 20241019205441.png",
-    "Attachments/Pasted image 20241019205225.png",
     "Homelab/Using Gmail SMTP with Cloudflare Email Routing. A Step-by-Step Guide.md",
     "Attachments/Templater.md",
     "Math/Vector Calculus/vec.md",
@@ -253,7 +230,6 @@
     "Math/Physics (EM)/Force on a Current Carrying Wire.md",
     "Math/Physics (EM)/Capacitors in Series.md",
     "Math/Physics (EM)",
-    "Math/Linear Algebra/Weighted Least Squares, Best Approximations of Functions.md",
     "Math/Linear Algebra",
     "DES",
     "Attachments/Untitled",

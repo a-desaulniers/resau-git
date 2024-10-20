@@ -1,5 +1,5 @@
 ---
-title: "About Me! : Alexandre DesAulniers"
+title: About Me! —  Alexandre DesAulniers
 draft: 
 tags:
   - Introductions
@@ -28,6 +28,7 @@ Please reach out at any point
 ![[dalhousie_university_logo-modified.png |100]]
 ##### Dalhousie University
 Bachelor of Engineering — BE, Electrical and Electronics Engineering
+
 <font color="#7f7f7f">Sep 2023 - Apr 2028 </font>
 <font color="#7f7f7f">Halifax, Nova Scotia, Canada · On-site</font>
 
@@ -49,6 +50,7 @@ Bachelor of Engineering — BE, Electrical and Electronics Engineering
 ![[dalhousie_university_logo-modified.png |100]]
 ##### Electrical Engineering Intern — Facilities Management, Campus Planning
 Dalhousie University
+
 <font color="#7f7f7f">Jan 2023 - Jul 2023</font>
 <font color="#7f7f7f">Halifax, Nova Scotia, Canada · On-site</font>
 
@@ -65,6 +67,7 @@ Dalhousie University
 ![[collabbydearlife_logo-modified.png|100]]
 ##### DevOps Intern
 Collab
+
 <font color="#7f7f7f">Dec 2021 - Jun 2022</font>
 <font color="#7f7f7f">Halifax, Nova Scotia, Canada · On-site</font>
 - Supported in focusing development and marketing material towards targeting young adult demographics.  
@@ -74,6 +77,7 @@ Collab
 ![[qt=q_95 1.webp|100]]
 ##### Infrastructure Engineer Intern
 Mosaic Clinic and Pharmacy
+
 <font color="#7f7f7f">Dec 2023 - Oct 2024</font>
 <font color="#7f7f7f">Halifax, Nova Scotia, Canada · On-site</font>
 
@@ -89,6 +93,7 @@ Mosaic Clinic and Pharmacy
 ![[atlascubesat_logo-modified.png|100]]
 ##### Atlantic Academy of Space Instructor
 ATLAS Space Academy — Galaxia Mission Systems
+
 <font color="#7f7f7f">Jul 2022 – Sep 2023</font>
 <font color="#7f7f7f">Halifax, Nova Scotia, Canada · Volunteer</font>
 
@@ -102,6 +107,7 @@ ATLAS Space Academy — Galaxia Mission Systems
 
 ![[YMCA-langues-modified.png|100]]
 ##### YMCA of Greater Halifax/Dartmouth
+
 <font color="#7f7f7f">Sep 2021 — Present</font>
 <font color="#7f7f7f">Halifax, Nova Scotia, Canada · On-site</font>
 
@@ -131,6 +137,7 @@ ATLAS Space Academy — Galaxia Mission Systems
 ![[Des2 (1)(1).png|100]]
 ##### Board Chair
 Dalhousie Diploma Of Engineering - Dalhousie University
+
 <font color="#7f7f7f">Dec 2023 - Present </font>
 <font color="#7f7f7f">Halifax, Nova Scotia, Canada · On-site</font>
 
@@ -146,6 +153,7 @@ Dalhousie Diploma Of Engineering - Dalhousie University
 ![[Untitled-modified.png|100]]
 ##### Dalhousie Gearheads — Team Lead
 Dalhousie University
+
 <font color="#7f7f7f">Aug 2024 - Present</font>
 <font color="#7f7f7f">Halifax, Nova Scotia, Canada · On-site</font>
 
@@ -158,6 +166,7 @@ Dalhousie University
 ![[dalhousie_university_logo-modified.png |100]]
 ##### Engineering Peer Mentorship Coordinator/Mentor
 Dalhousie University
+
 <font color="#7f7f7f">Mar 2024 - Present</font>
 <font color="#7f7f7f">Halifax, Nova Scotia, Canada · On-site</font>
 
@@ -169,6 +178,7 @@ Dalhousie University
 ![[dalhousie_university_logo-modified.png |100]]
 ##### Dalhousie SAS (Student Accessibility Centre) Notetaker
 Dalhousie University
+
 <font color="#7f7f7f">Sep 2023 - Present</font>
 <font color="#7f7f7f">Halifax, Nova Scotia, Canada · Mixed</font>
 
