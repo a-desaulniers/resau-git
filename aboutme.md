@@ -25,7 +25,7 @@ Please reach out at any point
 ---
 ### Education 🏫
 
-![[dalhousie_university_logo-modified.png |100]]
+![[dalhousie_university_logo-modified.png |70]]
 ##### Dalhousie University    
 Bachelor of Engineering — BE, Electrical and Electronics Engineering     
 <font color="#7f7f7f">Sep 2023 - Apr 2028 </font>  
@@ -46,7 +46,7 @@ Bachelor of Engineering — BE, Electrical and Electronics Engineering
 ---
 ### Internships / Work Experience 🗃️
 
-![[dalhousie_university_logo-modified.png |100]]
+![[dalhousie_university_logo-modified.png |70]]
 ##### Electrical Engineering Intern — Facilities Management, Campus Planning    
 Dalhousie University   
 <font color="#7f7f7f">Jan 2023 - Jul 2023</font>   
@@ -62,7 +62,7 @@ Dalhousie University
 
 ---
 
-![[collabbydearlife_logo-modified.png|100]]
+![[collabbydearlife_logo-modified.png|70]]
 ##### DevOps Intern    
 Collab   
 <font color="#7f7f7f">Dec 2021 - Jun 2022</font>    
@@ -71,7 +71,7 @@ Collab
 - Assisted the development team developing using the Flutter app platform and AWS EC2 cloud infrastructure deployment.
 
 ---
-![[qt=q_95 1.webp|100]]
+![[qt=q_95 1.webp|70]]
 ##### Infrastructure Engineer Intern    
 Mosaic Clinic and Pharmacy      
 <font color="#7f7f7f">Dec 2023 - Oct 2024</font>     
@@ -86,7 +86,7 @@ Mosaic Clinic and Pharmacy
 
 ---
 
-![[atlascubesat_logo-modified.png|100]]
+![[atlascubesat_logo-modified.png|70]]
 ##### Atlantic Academy of Space Instructor      
 ATLAS Space Academy — Galaxia Mission Systems      
 <font color="#7f7f7f">Jul 2022 – Sep 2023</font>    
@@ -100,7 +100,7 @@ ATLAS Space Academy — Galaxia Mission Systems
 
 ---
 
-![[YMCA-langues-modified.png|100]]
+![[YMCA-langues-modified.png|70]]
 ##### YMCA of Greater Halifax/Dartmouth    
 <font color="#7f7f7f">Sep 2021 — Present</font>    
 <font color="#7f7f7f">Halifax, Nova Scotia, Canada · On-site</font>    
@@ -128,7 +128,7 @@ ATLAS Space Academy — Galaxia Mission Systems
 ---
 ### Student Involvement 🎋
 
-![[Des2 (1)(1).png|100]]
+![[Des2 (1)(1).png|70]]
 ##### Board Chair   
 Dalhousie Diploma Of Engineering — Dalhousie University   
 <font color="#7f7f7f">Dec 2023 — Present </font>   
@@ -143,7 +143,7 @@ Dalhousie Diploma Of Engineering — Dalhousie University
 
 
 
-![[Untitled-modified.png|100]]
+![[Untitled-modified.png|70]]
 ##### Dalhousie Gearheads — Team Lead   
 Dalhousie University   
 <font color="#7f7f7f">Aug 2024 - Present</font>      
@@ -155,7 +155,7 @@ Dalhousie University
 
 
 
-![[dalhousie_university_logo-modified.png |100]]
+![[dalhousie_university_logo-modified.png |70]]
 ##### Engineering Peer Mentorship Coordinator/Mentor    
 Dalhousie University    
 <font color="#7f7f7f">Mar 2024 - Present</font>   
@@ -166,7 +166,7 @@ Dalhousie University
 
 
 
-![[dalhousie_university_logo-modified.png |100]]
+![[dalhousie_university_logo-modified.png |70]]
 ##### Dalhousie SAS (Student Accessibility Centre) Notetaker
 Dalhousie University    
 <font color="#7f7f7f">Sep 2023 - Present</font>   
