@@ -14,7 +14,9 @@
               "type": "image",
               "state": {
                 "file": "Attachments/Header Fermilabs 11th employee_0.jpg"
-              }
+              },
+              "icon": "lucide-image",
+              "title": "Header Fermilabs 11th employee_0"
             }
           },
           {
@@ -24,7 +26,9 @@
               "type": "image",
               "state": {
                 "file": "Attachments/Header Fermilabs 11th employee_0.jpg"
-              }
+              },
+              "icon": "lucide-image",
+              "title": "Header Fermilabs 11th employee_0"
             }
           },
           {
@@ -34,24 +38,39 @@
               "type": "image",
               "state": {
                 "file": "Attachments/Header Fermilabs 11th employee_0.jpg"
-              }
+              },
+              "icon": "lucide-image",
+              "title": "Header Fermilabs 11th employee_0"
             }
           },
           {
             "id": "8ca72a59f8a8e114",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Attachments/YMCA-langues-modified.png"
+              },
+              "icon": "lucide-image",
+              "title": "YMCA-langues-modified"
+            }
+          },
+          {
+            "id": "ec5102bd4833d8d8",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "aboutme.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "aboutme"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -71,7 +90,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -86,7 +107,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -94,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -117,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "aboutme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +150,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for aboutme"
             }
           },
           {
@@ -134,10 +161,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "aboutme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from aboutme"
             }
           },
           {
@@ -148,7 +177,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -157,8 +188,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
-              }
+                "file": "aboutme.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of aboutme"
             }
           }
         ]
@@ -170,7 +203,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -179,9 +211,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ca72a59f8a8e114",
+  "active": "ec5102bd4833d8d8",
   "lastOpenFiles": [
-    "Attachments/Header Fermilabs 11th employee_0.jpg",
+    "index.md",
+    "aboutme.md",
+    "().md",
+    "Attachments/PXL_20240520_014321325-modified.png",
+    "PXL_20240520_014321325.jpg",
+    "Pasted image 20241019212717.png",
+    "Attachments/atlas-class.jpg",
+    "Attachments/1726149776392.jpg",
+    "Attachments/YMCA-langues-modified.png",
+    "Attachments/Pasted image 20241019211759.png",
+    "MemLogo_Y transparent logo.png",
+    "atlas-class.jpg.~tmp",
+    "Attachments/Pasted image 20241019205441.png",
+    "Attachments/Pasted image 20241019205225.png",
+    "Homelab/Using Gmail SMTP with Cloudflare Email Routing. A Step-by-Step Guide.md",
+    "Attachments/Templater.md",
     "Math/Vector Calculus/vec.md",
     "Math/Vector Calculus/Triple Integrals.md",
     "Math/Vector Calculus/Surface Integrals and Stokes Theorem.pdf",
@@ -207,25 +254,11 @@
     "Math/Physics (EM)/Capacitors in Series.md",
     "Math/Physics (EM)",
     "Math/Linear Algebra/Weighted Least Squares, Best Approximations of Functions.md",
-    "Math/Linear Algebra/Vector Spaces.md",
-    "Math/Linear Algebra/QR Decomposition.md",
-    "Math/Linear Algebra/Orthogonal Sets in Rn.md",
-    "Math/Linear Algebra/MATLAB.md",
     "Math/Linear Algebra",
-    "Attachments/PXL_20230809_155103802~3.jpg",
-    "Pasted image 20240918204805.png",
-    "Attachments/Pasted image 20240918204802.png",
-    "Attachments/Pasted image 20240409110012.png",
-    "Attachments/Pasted image 20240409112430.png",
-    "Attachments/Pasted image 20240409110225.png",
-    "Attachments/Pasted image 20240902193008.png",
-    "Attachments/Pasted image 20240902184601.png",
-    "Attachments/Pasted image 20240902185133.png",
     "DES",
     "Attachments/Untitled",
     "Surface Integrals and Stokes Theorem.pdf",
     "Math/New folder",
-    "Papers",
     "Attachments/Dalhousie Requirements and Outlines.canvas",
     "Math/Attachments/Dalhousie Requirements and Outlines.canvas"
   ]

@@ -1,3 +1,6 @@
 {
-  "accentColor": "#4fff4d"
+  "accentColor": "#4fff4d",
+  "enabledCssSnippets": [
+    "something"
+  ]
 }

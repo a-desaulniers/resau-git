@@ -12,7 +12,7 @@ My name is Alexandre, and I am an Electrical Engineering student at [Dalhousie U
 
 ![[PXL_20230809_155103802~3.jpg]]
 
-On this site, I hope to publish notes about projects that I am working on, guides, UNIX, Programming, and Mathematics. My main site, [cabot.place](https://cabot.place/) doesn't, and I imagine never will have much on it. It's got a funny spinning (entirely CSS) triangle though! 
+On this site, I hope to publish notes about projects that I am working on, guides, UNIX, Programming, and Mathematics. My main site, [cabot.place](https://cabot.place/) doesn't, and I imagine never will have much on it. It's got a funny spinning (entirely CSS) triangle though! You can read more about what I've done in my [[aboutme|about me!]]
 
 This site is being run on my Dell PowerEdge R715 homelab server, being routed through NGINX, and Cloudflare to the open web.  This web base is written entirely in `Markdown`, being interpreted by [Quartz](https://quartz.jzhao.xyz/) into HTML. 
 
