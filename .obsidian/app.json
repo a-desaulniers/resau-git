@@ -4,5 +4,6 @@
     " s",
     "Socit"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": true
 }
