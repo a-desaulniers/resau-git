@@ -10,9 +10,9 @@ aliases:
 
 ![[PXL_20240520_014321325-modified.png| center | 350 ]]
 
-<center><h5>Hello There!</h5></center>
+<center><h5>Hi There!</h5></center>
 
-My name is Alexandre DesAulniers, and I'd like to welcome you to my interactive portfolio. 
+My name is Alexandre DesAulniers, and I'd like to welcome you to my portfolio. 
 
 I am a student at Dalhousie University, enrolled in a bachelors of Electronics Engineering. I run [reseau.cabot.place](https://reseau.cabot.place), am an active member of Dalhousie Student government, maintain one of many side projects, and am a very active member of many communities. You can find a more complete profile on my [LinkedIn](https://www.linkedin.com/in/alex-desau/details/experience/).
 
@@ -20,10 +20,10 @@ Likewise, I hold interests in many things Electrical Engineers typically do, but
 
 I am proud of my work on [reseau](https://reseau.cabot.place), and working on completing another #Paper📃 on Canadian Nuclear supply, hopefully wrapping up in early January!
 
-Please reach out at any point 
+Please reach out to me at any point at a@desau.ca, and I would be happy to answer any question you may have!
 
 ---
-### Education 🏫
+# Education 🏫
 
 ![[dalhousie_university_logo-modified.png |70]]
 ##### Dalhousie University    
@@ -44,7 +44,7 @@ Bachelor of Engineering — BE, Electrical and Electronics Engineering
 ![[PXL_20241007_173337066(1).jpg|200]]![[PXL_20231004_225748474(1).jpg|200]]![[Snapinsta.app_458389944_533480902592332_2781597848410762106_n_1080(2)(1)(1).jpg|187]]
 
 ---
-### Internships / Work Experience 🗃️
+# Internships / Work Experience 🗃️
 
 ![[dalhousie_university_logo-modified.png |70]]
 ##### Electrical Engineering Intern — Facilities Management, Campus Planning    
@@ -126,7 +126,7 @@ ATLAS Space Academy — Galaxia Mission Systems
 ![[1726149776392.jpg|188]]![[Pasted image 20241019211759.png|404]]
 
 ---
-### Student Involvement 🎋
+# Student Involvement 🎋
 
 ![[Des2 (1)(1).png|70]]
 ##### Board Chair   

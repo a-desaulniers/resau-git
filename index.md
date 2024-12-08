@@ -23,10 +23,11 @@ This site is being run on my Dell PowerEdge R715 homelab server, being routed th
 	- Proxmox Services Tree
 	- [[imessage|🍎 MacOS Monterey Installation, with working IServices and Hardware Acceleration, on a Dual AMD Opteron 6380 server.]]
 <br>
-- Guides on Mathematics for those like I... (challenged)
+- Class notes, for those who struggle... (like I did)
 	- [🧮 Vector Calculus](vec.md)
 	- [🟰 Linear Algebra](linalg.md)
 	- [[phys|🧲 Electromagnetics and Circuits]]
+	- [[Final Exam Notes|📈 Economics]]
 <br>
 - My Academic Papers
 	- [[nationalcharge|🚙 National Charge: Canadian Federal EV Standards Regulation]]

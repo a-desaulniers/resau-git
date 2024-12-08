@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aboutme.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aboutme"
+              "title": "index"
             }
           }
         ],
@@ -189,8 +189,11 @@
   },
   "active": "50766323b9fed2c8",
   "lastOpenFiles": [
-    "index.md",
+    "Math/Economics/Final Exam Notes.md",
     "aboutme.md",
+    "index.md",
+    "Math/Economics/Untitled",
+    "Math/Economics",
     "Attachments/PXL_20240520_014321325-modified.png",
     "Attachments/Header Fermilabs 11th employee_0.jpg",
     "Attachments/Group_Pic.qHcXHCGh.jpg",
@@ -232,8 +235,6 @@
     "Math/Linear Algebra",
     "DES",
     "Attachments/Untitled",
-    "Surface Integrals and Stokes Theorem.pdf",
-    "Math/New folder",
     "Attachments/Dalhousie Requirements and Outlines.canvas",
     "Math/Attachments/Dalhousie Requirements and Outlines.canvas"
   ]
