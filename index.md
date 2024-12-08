@@ -27,7 +27,7 @@ This site is being run on my Dell PowerEdge R715 homelab server, being routed th
 	- [🧮 Vector Calculus](vec.md)
 	- [🟰 Linear Algebra](linalg.md)
 	- [[phys|🧲 Electromagnetics and Circuits]]
-	- [[Final Exam Notes|📈 Economics]]
+
 <br>
 - My Academic Papers
 	- [[nationalcharge|🚙 National Charge: Canadian Federal EV Standards Regulation]]
