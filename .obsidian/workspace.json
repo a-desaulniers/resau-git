@@ -4,49 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f4792f2c95a543e6",
+        "id": "9d2fb0dc6e97bd3e",
         "type": "tabs",
         "children": [
           {
-            "id": "0933b20cef5af866",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Attachments/Header Fermilabs 11th employee_0.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "Header Fermilabs 11th employee_0"
-            }
-          },
-          {
-            "id": "67c7f32ae81525fc",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Attachments/Header Fermilabs 11th employee_0.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "Header Fermilabs 11th employee_0"
-            }
-          },
-          {
-            "id": "50766323b9fed2c8",
+            "id": "765b3fe23ce08d1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Applied Probability and Statistics/9 - Distributions Continued.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9 - Distributions Continued"
+              "title": "index"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,10 +162,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f7ea33b349b2bd73",
+  "active": "765b3fe23ce08d1c",
   "lastOpenFiles": [
-    "Physics/Electric Circuits",
-    "Physics",
+    "Physics/Electric Circuits/circuits.md",
+    "index.md",
+    "Attachments - Uncompressed/ECED/Additional/Tutorial 9.pdf",
+    "Attachments - Uncompressed/ECED/Additional/Tutorial 7.pdf",
+    "Attachments - Uncompressed/ECED/Additional/Tutorial 6.pdf",
+    "Attachments - Uncompressed/ECED/Additional/Tutorial 3.pdf",
+    "Attachments - Uncompressed/ECED/Additional/Tutorial 4.pdf",
+    "Attachments - Uncompressed/ECED/Additional/Tutorial 2.pdf",
+    "Attachments - Uncompressed/ECED/Additional/Tutorial 1.pdf",
+    "Attachments - Uncompressed/ECED/Additional",
+    "Attachments - Uncompressed/ECED/Lectures/Lecture 21.pdf",
+    "Attachments - Uncompressed/ECED/Lectures/Lecture 20.pdf",
+    "Attachments/Header Fermilabs 11th employee_0.jpg",
+    "Attachments - Uncompressed/Intel-pentium-ii-dixon-die-shot-high-resolution-stitched.jpg",
+    "Math/Applied Probability and Statistics/stats.md",
+    "Math/Applied Probability and Statistics/9 - Distributions Continued.md",
     "Math/Applied Probability and Statistics/7 - Random Variables Continued.md",
     "Math/Applied Probability and Statistics/3 - Bayes Theorem, Conditional Probability, and More Examples.md",
     "Math/Applied Probability and Statistics/1 - Probability Theory.md",
@@ -202,15 +191,12 @@
     "Math/Applied Probability and Statistics/12 - Normal and Lognormal Distributions.md",
     "Math/Applied Probability and Statistics/11 - Continuous Distributions Continued.md",
     "Math/Applied Probability and Statistics/10 - Continuous Distributions.md",
-    "Math/Applied Probability and Statistics/9 - Distributions Continued.md",
     "Math/Applied Probability and Statistics/8 - Common Distributions and Bernoulli Trials.md",
     "Math/Applied Probability and Statistics/6 - Random Variables, and the CDF.md",
     "Math/Applied Probability and Statistics/5 - Total Probability Theorem, and Event Trees.md",
     "Math/Applied Probability and Statistics/4 - Independence vs Disjunction.md",
     "Math/Applied Probability and Statistics/2 - Combinations and Permutations.md",
     "Math/Applied Probability and Statistics/Summary of Statistics Distributions.md",
-    "Attachments - Uncompressed/Oct15.pdf",
-    "Math/Applied Probability and Statistics/stats.md",
     "Applied Probability and Statistics, ENGM2032 - G.A Fenton.pdf.md",
     "Math/Linear Algebra/linalg.md",
     "Attachments - Uncompressed/PXL_20241001_125101581.jpg",
@@ -221,20 +207,8 @@
     "Attachments - Uncompressed/PXL_20241001_120803816.jpg",
     "Attachments - Uncompressed/PXL_20240926_125127411.jpg",
     "Attachments - Uncompressed/PXL_20240926_121636145.jpg",
-    "Attachments - Uncompressed/PXL_20240926_121350681.jpg",
-    "Attachments - Uncompressed/PXL_20240926_121147501.jpg",
-    "Attachments - Uncompressed",
     "Math/Vector Calculus/vec.md",
-    "index.md",
-    "Math/Applied Probability and Statistics",
     "Math/Economics/Final Exam Notes.md",
-    "aboutme.md",
-    "Math/Economics/Untitled",
-    "Math/Economics",
-    "atlas-class.jpg.~tmp",
-    "Math/Vector Calculus/Surface Integrals and Stokes Theorem.pdf",
-    "Math/Vector Calculus/Green's Therorem and Surface Integrals.pdf",
-    "Math/Vector Calculus",
     "Attachments/Dalhousie Requirements and Outlines.canvas",
     "Math/Attachments/Dalhousie Requirements and Outlines.canvas"
   ]

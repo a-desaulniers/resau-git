@@ -24,14 +24,23 @@ This site is being run on my Dell PowerEdge R715 homelab server, being routed th
 	- [[imessage|🍎 MacOS Monterey Installation, with working IServices and Hardware Acceleration, on a Dual AMD Opteron 6380 server.]]
 <br>
 - Class notes, for those who struggle... (like I did)
-	- [🧮 Vector Calculus](vec.md)
-	- [🟰 Linear Algebra](linalg.md)
-	- [[phys|🧲 Electromagnetics and Circuits]]
-	
-<br>
-- My Academic Papers
-	- [[nationalcharge|🚙 National Charge: Canadian Federal EV Standards Regulation]]
-	- [[importanceoffoss|💾 The Vital Importance of FOSS:The GNU/Linux Operating System]]
+
+---
+**Engineering Mathematics:**
+
+- [🧮 Vector Calculus](vec.md)
+- [🟰 Linear Algebra](linalg.md)
+- [[stats |📈 Applied Probability and Statistics]]
+
+**Engineering Electromagnetics/Circuits:**
+
+- [[phys|🧲 Basic Electromagnetics and Circuits]]
+- [[circuits|⚡Electric Circuits I]]
+
+**My Academic Papers:**
+
+-  [[nationalcharge|🚙 National Charge: Canadian Federal EV Standards Regulation]]
+-  [[importanceoffoss|💾 The Vital Importance of FOSS:The GNU/Linux Operating System]]
 
  I hope you can learn something from me, and am always happy to respond to emails!
 
