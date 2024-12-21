@@ -1,6 +1,6 @@
 ---
 title: Electric Circuits I
-draft: true
+draft: false
 tags:
 ---
 Before we begin!
