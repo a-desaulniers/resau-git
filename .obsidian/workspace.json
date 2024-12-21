@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Math/Applied Probability and Statistics/stats.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "stats"
             }
           }
         ]
@@ -164,6 +164,9 @@
   },
   "active": "765b3fe23ce08d1c",
   "lastOpenFiles": [
+    "Papers/importanceoffoss.md",
+    "Papers/nationalcharge.md",
+    "index.md",
     "Physics/Electric Circuits/circuits.md",
     "Math/Applied Probability and Statistics/15 - Confidence Intervals on a Difference in Mean.md",
     "Math/Applied Probability and Statistics/16 - Confidence Intervals on Proportions.md",
@@ -177,7 +180,6 @@
     "Math/Applied Probability and Statistics/4 - Independence vs Disjunction.md",
     "Math/Applied Probability and Statistics/3 - Bayes Theorem, Conditional Probability, and More Examples.md",
     "Math/Applied Probability and Statistics/1 - Probability Theory.md",
-    "index.md",
     "Attachments - Uncompressed/ECED/Additional/Tutorial 9.pdf",
     "Attachments - Uncompressed/ECED/Additional/Tutorial 7.pdf",
     "Attachments - Uncompressed/ECED/Additional/Tutorial 6.pdf",
@@ -208,7 +210,6 @@
     "Attachments - Uncompressed/PXL_20240926_125127411.jpg",
     "Attachments - Uncompressed/PXL_20240926_121636145.jpg",
     "Math/Vector Calculus/vec.md",
-    "Math/Economics/Final Exam Notes.md",
     "Attachments/Dalhousie Requirements and Outlines.canvas",
     "Math/Attachments/Dalhousie Requirements and Outlines.canvas"
   ]

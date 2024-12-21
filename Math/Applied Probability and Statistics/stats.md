@@ -20,7 +20,7 @@ These notes will be following the units as laid out in *Applied Probability and 
 
 An accompanying [YouTube](https://youtube.com/playlist?list=PLMDstUxXg2drwz28nAeSvg_WQztbRKJ9I&feature=shared)series created by G.A Fenton can also be referenced, and used as supplemental information. 
 
-![[Pasted image 20241220175140.png]]
+![[Pasted image 20241220175140.png|400]]
 
 ---
 
