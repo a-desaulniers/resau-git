@@ -31,24 +31,21 @@ P(A)P(B) (the product of the two probabilities) is much simpler to calculate!
 > [!note] 
 > "*independent* and "*disjoint*" are <u>opposites</u>
 >
-> If A and B are *disjoint* then P
-> $$
-P(A\cap B) = 0 \neq P(A)
->$$
+> If A and B are *disjoint* then
+> $P(A\cap B) = 0 \neq P(A)$
+> 
 >If Independent, A and B must overlap by a specific amount
 >
 >Any time you see a probability of an intersection, you should ask "*are those independent?*" 
 >
 >Consider
->$$
->P(A\cap B\cap C) = P(A|B \cap C)P(B|C)P(C)
->$$
+>$P(A\cap B\cap C) = P(A|B \cap C)P(B|C)P(C)$
 >
 >$$
 >= P(A)P(B)P(C) \space\space \text{if independent}
 >$$
-
-![[PXL_20240917_123025728.jpg]]
+>
+>![[PXL_20240917_123025728.jpg]]
 
 <u>So the rules!</u>
 

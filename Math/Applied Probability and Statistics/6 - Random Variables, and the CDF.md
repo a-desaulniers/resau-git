@@ -77,22 +77,17 @@ This *accumulates* distributions.
 So you also see the rules of these CDF's listed above! 
 
 1) CDF's are non-decreasing. They only grow.
-
-2) $$
-F_x(-\infty) = 0
-$$
-3) $$
-F_x(\infty) = 1
-$$
+2) $F_x(-\infty) = 0$
+3) $F_x(\infty) = 1$
 4) The final bar has to be one! The CDF has to be one at the end.
 
-So, you may be asking... How do we get P(X=x) if you know F<sub>x</sub> (x)
+So, you may be asking… How do we get P(X=x) if you know F<sub>x</sub> (x)
 
 $$
 P(X=1) =F_x(2) -F_x(1)
 $$
 
-So we can construct P(X=x) given F<sub>x</sub> (x) and vice-versa
+So we can construct P(X=x) given F<sub>x</sub> (x) and vice versa
 
 We can say that these are <u>equivilent</u>.
 

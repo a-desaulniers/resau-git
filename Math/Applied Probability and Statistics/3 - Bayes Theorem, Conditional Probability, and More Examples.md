@@ -17,8 +17,6 @@ $$
 
 ![[Pasted image 20240912084404.png|500]]
 
-![[Sep12.pdf#page=1|Sep12, p.1]]
-
 ---
 
 ### Example 2
@@ -62,15 +60,15 @@ On the right of the given, you receive information of what happened previously.
 
 ![[PXL_20240912_124842395.jpg]]
 
-$$
-P(A\cap B = P(A|B)P(B)
-$$also have 
-$$
-P(B\cap A) = P(B|A)P(A)
-$$
+$P(A\cap B = P(A|B)P(B)$
 
+We also have:
 
-And a bit more math, and we get [[Class 5 - Total Probability Theorem, and Event Trees#Bayes Theorem|Bayes' Theorem]] (<span style="background:#fff88f">Very famous, and important</span>)
+$P(B\cap A) = P(B|A)P(A)$
+
+...
+
+And a bit more math, and we get [[Class 5 - Total Probability Theorem, and Event Trees#Bayes Theorem|Bayes' Theorem]] (***Very famous, and important***)
 
 $$
 P(A|B) = \frac{P(B|A) \cdot P(A)}{P(B)}

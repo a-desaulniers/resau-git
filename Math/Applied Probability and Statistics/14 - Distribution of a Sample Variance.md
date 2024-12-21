@@ -101,16 +101,21 @@ We are told $\bar{X} =960$, $n=25$, $\sigma_x^2 = 225 \space \space (\sigma_x = 
 $$
 (L,U) = (\space \space \bar{X} \space \space) \pm (Z_{\frac{\alpha}{2}}) (\sigma_{\bar{X}})
 $$
+
 $$
 (L,U) = (\space \space \bar{X} \space \space) \pm Z_{\frac{\alpha}{2}} (\frac{\sigma_{\bar{X}}}{\sqrt{u}})
-$$$$
+$$
+
+$$
 (L,U) = (960) \pm Z_{0.025} (\frac{15}{\sqrt{25}})
 $$
+
 $$
 (L,U) = (960) \pm (1.960) (\frac{15}{\sqrt{25}})
 $$
+
 $$
- = [954.1, 965.9]
+= [954.1, 965.9]
 $$
 
 We are 95% confident that the true $\mu_x$ is in this interval. 

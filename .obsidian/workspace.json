@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Math/Applied Probability and Statistics/Summary of Statistics Distributions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Summary of Statistics Distributions"
             }
           }
         ]
@@ -164,8 +164,18 @@
   },
   "active": "765b3fe23ce08d1c",
   "lastOpenFiles": [
-    "Physics/Electric Circuits/circuits.md",
+    "Math/Applied Probability and Statistics/15 - Confidence Intervals on a Difference in Mean.md",
+    "Math/Applied Probability and Statistics/14 - Distribution of a Sample Variance.md",
+    "Math/Applied Probability and Statistics/13 - Sampling Distributions.md",
+    "Math/Applied Probability and Statistics/9 - Distributions Continued.md",
+    "Math/Applied Probability and Statistics/7 - Random Variables Continued.md",
+    "Math/Applied Probability and Statistics/6 - Random Variables, and the CDF.md",
+    "Math/Applied Probability and Statistics/5 - Total Probability Theorem, and Event Trees.md",
+    "Math/Applied Probability and Statistics/4 - Independence vs Disjunction.md",
+    "Math/Applied Probability and Statistics/3 - Bayes Theorem, Conditional Probability, and More Examples.md",
+    "Math/Applied Probability and Statistics/1 - Probability Theory.md",
     "index.md",
+    "Physics/Electric Circuits/circuits.md",
     "Attachments - Uncompressed/ECED/Additional/Tutorial 9.pdf",
     "Attachments - Uncompressed/ECED/Additional/Tutorial 7.pdf",
     "Attachments - Uncompressed/ECED/Additional/Tutorial 6.pdf",
@@ -179,22 +189,12 @@
     "Attachments/Header Fermilabs 11th employee_0.jpg",
     "Attachments - Uncompressed/Intel-pentium-ii-dixon-die-shot-high-resolution-stitched.jpg",
     "Math/Applied Probability and Statistics/stats.md",
-    "Math/Applied Probability and Statistics/9 - Distributions Continued.md",
-    "Math/Applied Probability and Statistics/7 - Random Variables Continued.md",
-    "Math/Applied Probability and Statistics/3 - Bayes Theorem, Conditional Probability, and More Examples.md",
-    "Math/Applied Probability and Statistics/1 - Probability Theory.md",
     "Math/Applied Probability and Statistics/17 - Hypothesis Tests.md",
     "Math/Applied Probability and Statistics/16 - Confidence Intervals on Proportions.md",
-    "Math/Applied Probability and Statistics/15 - Confidence Intervals on a Difference in Mean.md",
-    "Math/Applied Probability and Statistics/14 - Distribution of a Sample Variance.md",
-    "Math/Applied Probability and Statistics/13 - Sampling Distributions.md",
     "Math/Applied Probability and Statistics/12 - Normal and Lognormal Distributions.md",
     "Math/Applied Probability and Statistics/11 - Continuous Distributions Continued.md",
     "Math/Applied Probability and Statistics/10 - Continuous Distributions.md",
     "Math/Applied Probability and Statistics/8 - Common Distributions and Bernoulli Trials.md",
-    "Math/Applied Probability and Statistics/6 - Random Variables, and the CDF.md",
-    "Math/Applied Probability and Statistics/5 - Total Probability Theorem, and Event Trees.md",
-    "Math/Applied Probability and Statistics/4 - Independence vs Disjunction.md",
     "Math/Applied Probability and Statistics/2 - Combinations and Permutations.md",
     "Math/Applied Probability and Statistics/Summary of Statistics Distributions.md",
     "Applied Probability and Statistics, ENGM2032 - G.A Fenton.pdf.md",

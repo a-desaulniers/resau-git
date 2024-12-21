@@ -90,12 +90,15 @@ $$
 Var(T_k) = \frac{q}{p^2} + \frac{q}{p^2} + ... =\frac{kq}{p^2}
 $$
 And the expected value is 
-
 $$
 E(T_k) = E(T_11) + E(T_12) + ... + E(T_1k)
-$$$$
+$$
+
+$$
 E(T_k) = \frac{1}{p} + \frac{1}{p} + ... + \frac{1}{p} = \frac{k}{p}
 $$
+
+
 ---
 
 ### Example Two

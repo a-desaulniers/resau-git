@@ -136,10 +136,11 @@ tags:
   0, & \text{otherwise}
   \end{cases}
   $$
-  - **PMF**
-  $$
+-  **PMF**
+$$
 F(t) = 1 -e^{-\lambda t} \sum^{k-1}_{j!}\frac{(\lambda t)^j}{j!} \space\text{  if } k \text{ is a positive integer, and } t \geq 0
-   $$
+$$
+
 - **Parameters**:
   - $( k > 0 )$: Shape parameter
   - $( \lambda > 0 )$: Rate parameter

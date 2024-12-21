@@ -23,32 +23,35 @@ tags:
 Statistics will be concerned with
 
 - **Sample Mean**
-	- $$
-	\overline{X} = \frac{1}{n}\sum^n_{i-1}X_i
-	$$
+$$
+\overline{X} = \frac{1}{n}\sum^n_{i-1}X_i
+$$
+
 - Sample Variance
-	- $$
-	 S^2 = \frac{1}{n-1}\sum(X_i - \overline{X})
-	$$
+
+
+$$
+S^2 = \frac{1}{n-1}\sum(X_i - \overline{X})
+$$
+
 
 Sample mean and Sample Variance are random before we take our observations…
 
 After we've taken our random sample, we know X<sub>1</sub>, X<sub>2</sub>, … X<sub>n</sub>, and we get
 
-- $$
-	\overline{X} = \frac{1}{n}\sum^n_{i-1}X_i
-	$$
-	Which is a realization of x̄
+$$
+\overline{X} = \frac{1}{n}\sum^n_{i-1}X_i
+$$
+Which is a realization of x̄
 
 and 
 
-- $$
-	 S^2 = \frac{1}{n-1}\sum(X_i - \overline{X})
-	$$
-	Which is a realization of S<sup>2</sup>
+$$
+S^2 = \frac{1}{n-1}\sum(X_i - \overline{X})
+$$
 
 
-
+Which is a realization of S<sup>2</sup>
 
 
 > [!tip] One other little note...
@@ -72,8 +75,9 @@ Let X<sub>i</sub> = X of I resistor
 ![[PXL_20241017_120650078.jpg]]
 ![[PXL_20241017_121236326.jpg]]
 
+
 $$
-\therefore P(\overline{X}<95) = P(Z_1 < \frac{95 -\mu_\overline{X}}{\sigma_\overline{X}} = P(Z < \frac{95 -\mu_{X}}{\frac{\sigma_x}{\sqrt{n}}}) =1-\Phi(2.5) = 1 - 0.99379 =\underline{0.00621}
+P(\overline{X}<95) = P(Z_1 < \frac{95 -\mu_\overline{X}}{\sigma_\overline{X}} = P(Z < \frac{95 -\mu_{X}}{\frac{\sigma_x}{\sqrt{n}}}) =1-\Phi(2.5) = 1 - 0.99379 =\underline{0.00621}
 $$
 
 Remember, Φ is pulled from a lookup table. 
@@ -94,7 +98,7 @@ P((x̄ < 1.009) U (x̄ > 1.011))
 
 Distribution? We need; μ<sub>x̄</sub> and σ<sub>x̄</sub> 
 
-μ<sub>x̄</sub> = μ<sub>x</sub>,  σ<sub>x̄</sub> = σ<sub>x</sub>/sqrt{n} 
+μ<sub>x̄</sub> = μ<sub>x</sub>,  σ<sub>x̄</sub> = $\frac{σ_x}{\sqrt{n}}$
 
 Here, we'll find the probability for one half of the curve, and then double it (because they are the same thing on each side)
 
@@ -108,8 +112,10 @@ We must now estimate σ<sub>x</sub> with S<sub>x</sub>
 where S<sub>x</sub><sup>2</sup> =
 
 $$
-	 S^2_x = \frac{1}{n-1}\sum(X_i - \overline{X})^2
-	$$
+S^2_x = \frac{1}{n-1}\sum(X_i - \overline{X})^2
+$$
+
+
 So, our standardization now becomes:
 
 ![[PXL_20241017_123411043.jpg]]

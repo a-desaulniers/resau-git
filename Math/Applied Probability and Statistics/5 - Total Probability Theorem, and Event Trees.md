@@ -6,7 +6,9 @@ tags:
 ---
 **Total Probability Theorem**
 - Often, we want the <u>total probability of failure of a system</u>, P(F)
-- ![[PXL_20240919_114133963.jpg]]
+
+![[PXL_20240919_114133963.jpg]]
+
 - Since we are assuming unions are disjoint in this case,  [[2 - Combinations and Permutations#^5cd4bb|we can just add the unions]]
 $$
 P(F\cap C_1)+P(F\cap C_2) +P(F\cap C_3)
