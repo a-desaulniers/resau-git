@@ -55,9 +55,6 @@ $$
 Where $\bar{d}$ is an estimate of $\mu_D = \mu_{1_i} - \mu_{2_i}$. We will also need $S_d^2 = \frac{1}{n-1}\sum^n_{i=1}(d_i-\bar{d})^2$
 
 Now, 
-$$
-[L,U)_{1-\alpha} = ( \bar{d} \pm (t_{\frac{\alpha}{2},n-1})(S_\bar{d})
-$$
 
 $$
 [L,U)_{1-\alpha} = ( \bar{d} \pm (t_{\frac{\alpha}{2},n-1})\frac{S_d}{\sqrt{n}}

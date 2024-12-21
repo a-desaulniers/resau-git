@@ -217,13 +217,9 @@ $$
 
 - **Description**: Models failure times and reliability.
 - **PDF**:
-  $$
-  f(x) = 
-  \begin{cases}
- \frac{\beta}{x})(\lambda x)^{\beta}e^{-(\lambda x)^{\beta}}, & x \geq 0 \\
-  0, & \text{otherwise}
-  \end{cases}
-  $$
+$$
+f(x) = \begin{cases}\frac{\beta}{x})(\lambda x)^{\beta}e^{-(\lambda x)^{\beta}}, & x \geq 0 \\ 0, & \text{otherwise}\end{cases}
+$$
 - **Parameters**:
   - $( k > 0 )$: Shape parameter
   - $( \lambda > 0)$: Scale parameter
