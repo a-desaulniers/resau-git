@@ -16,7 +16,7 @@ I would like to give a special thank you to:
 
 For their contributions in Mathematical education, and provision of knowledge for this wiki tree. The following notes are my second year class notes for Applied Differential Equations, and I hope you may find them helpful!
 
-These notes will be updated periodically, and put in order or which I believe to be most helpful. 
+These notes will be updated periodically, and put in order of what I believe to be most helpful. 
 
 
 ![[A-simple-differential-equation-representing-a-theory-driven-model.png]]
