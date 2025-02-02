@@ -13,12 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Applied Probability and Statistics/stats.md",
+                "file": "Math/Applied Differential Equations/diffeq.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "stats"
+              "title": "diffeq"
+            }
+          },
+          {
+            "id": "2198328f7af7d58f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Attachments - Uncompressed/DE/Lecture 4, Models.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lecture 4, Models"
+            }
+          },
+          {
+            "id": "8e501da4eef7df97",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Attachments - Uncompressed/PXL_20241017_123411043.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "PXL_20241017_123411043"
             }
           }
         ]
@@ -40,7 +64,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -164,9 +189,25 @@
   },
   "active": "765b3fe23ce08d1c",
   "lastOpenFiles": [
+    "Attachments - Uncompressed/DE/Lecture 5 (Karsten).pdf",
+    "Math/Applied Differential Equations/diffeq.md",
+    "Attachments - Uncompressed/DE/Lecture 2 (Karsten).pdf",
+    "Attachments - Uncompressed/DE/Lecture 4, Models.pdf",
+    "Homelab/Using Gmail SMTP with Cloudflare Email Routing. A Step-by-Step Guide.md",
+    "Attachments - Uncompressed/PXL_20241017_123411043.jpg",
+    "Attachments - Uncompressed/DE/Yp Walkthrough.pdf",
+    "Attachments - Uncompressed/DE/Yh Walkthrough.pdf",
+    "Attachments - Uncompressed/DE",
+    "Attachments - Uncompressed/PXL_20240905_121236356.jpg",
+    "index.md",
+    "Attachments - Uncompressed/A-simple-differential-equation-representing-a-theory-driven-model.png",
+    "Math/Vector Calculus/vec.md",
+    "Math/Applied Probability and Statistics/stats.md",
+    "Math/Applied Differential Equations",
+    "Math/Applied Probability and Statistics/2 - Combinations and Permutations.md",
+    "aboutme.md",
     "Papers/importanceoffoss.md",
     "Papers/nationalcharge.md",
-    "index.md",
     "Physics/Electric Circuits/circuits.md",
     "Math/Applied Probability and Statistics/15 - Confidence Intervals on a Difference in Mean.md",
     "Math/Applied Probability and Statistics/16 - Confidence Intervals on Proportions.md",
@@ -183,33 +224,16 @@
     "Attachments - Uncompressed/ECED/Additional/Tutorial 9.pdf",
     "Attachments - Uncompressed/ECED/Additional/Tutorial 7.pdf",
     "Attachments - Uncompressed/ECED/Additional/Tutorial 6.pdf",
-    "Attachments - Uncompressed/ECED/Additional/Tutorial 3.pdf",
-    "Attachments - Uncompressed/ECED/Additional/Tutorial 4.pdf",
-    "Attachments - Uncompressed/ECED/Additional/Tutorial 2.pdf",
-    "Attachments - Uncompressed/ECED/Additional/Tutorial 1.pdf",
-    "Attachments - Uncompressed/ECED/Additional",
-    "Attachments - Uncompressed/ECED/Lectures/Lecture 21.pdf",
-    "Attachments - Uncompressed/ECED/Lectures/Lecture 20.pdf",
     "Attachments/Header Fermilabs 11th employee_0.jpg",
     "Attachments - Uncompressed/Intel-pentium-ii-dixon-die-shot-high-resolution-stitched.jpg",
-    "Math/Applied Probability and Statistics/stats.md",
     "Math/Applied Probability and Statistics/17 - Hypothesis Tests.md",
     "Math/Applied Probability and Statistics/12 - Normal and Lognormal Distributions.md",
     "Math/Applied Probability and Statistics/11 - Continuous Distributions Continued.md",
-    "Math/Applied Probability and Statistics/10 - Continuous Distributions.md",
-    "Math/Applied Probability and Statistics/8 - Common Distributions and Bernoulli Trials.md",
-    "Math/Applied Probability and Statistics/2 - Combinations and Permutations.md",
-    "Applied Probability and Statistics, ENGM2032 - G.A Fenton.pdf.md",
-    "Math/Linear Algebra/linalg.md",
     "Attachments - Uncompressed/PXL_20241001_125101581.jpg",
     "Attachments - Uncompressed/PXL_20241001_123642573.jpg",
     "Attachments - Uncompressed/PXL_20241001_122721211.jpg",
     "Attachments - Uncompressed/PXL_20241001_121921399.jpg",
     "Attachments - Uncompressed/PXL_20241001_121921399 1.jpg",
-    "Attachments - Uncompressed/PXL_20241001_120803816.jpg",
-    "Attachments - Uncompressed/PXL_20240926_125127411.jpg",
-    "Attachments - Uncompressed/PXL_20240926_121636145.jpg",
-    "Math/Vector Calculus/vec.md",
     "Attachments/Dalhousie Requirements and Outlines.canvas",
     "Math/Attachments/Dalhousie Requirements and Outlines.canvas"
   ]
