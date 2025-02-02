@@ -25,12 +25,12 @@ These notes will be updated periodically, and put in order or which I believe to
 
 #### First Order Systems
 
-[[Lecture 4, Models.pdf|First Order LTI Models]]
-[[Lecture 2 (Karsten).pdf|First Order LTI Models, solved using Method of Undetermined Coefficients]]
-[[Lecture 5 (Karsten).pdf|First Order LTI Models, MUC Method cont. Multiple Yp's]]
+- [[Lecture 4, Models.pdf|First Order LTI Models]]
+- [[Lecture 2 (Karsten).pdf|First Order LTI Models, solved using Method of Undetermined Coefficients]]
+- [[Lecture 5 (Karsten).pdf|First Order LTI Models, MUC Method cont. Multiple Yp's]]
 
 ---
 #### Second Order Systems
 
-![[Yh Walkthrough.pdf|Explanation of Yh in Second Order Systems]]
-![[Yp Walkthrough.pdf|Explanation of Yp in Second Order Systems, Using the Auxiliary method]]
+- [[Yh Walkthrough.pdf|Explanation of Yh in Second Order Systems]]
+- [[Yp Walkthrough.pdf|Explanation of Yp in Second Order Systems, Using the Auxiliary method]]
