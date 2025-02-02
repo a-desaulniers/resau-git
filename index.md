@@ -31,7 +31,7 @@ This site is being run on my Dell PowerEdge R715 homelab server, being routed th
 - [🧮 Vector Calculus](vec.md)
 - [🟰 Linear Algebra](linalg.md)
 - [[stats |📈 Applied Probability and Statistics]]
-- [[diffeq|🧮Applied Differential Equations]]
+- [[diffeq|🧮 Applied Differential Equations]]
 
 **Engineering Electromagnetics/Circuits:**
 

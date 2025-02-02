@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Applied Differential Equations/diffeq.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "diffeq"
+              "title": "index"
             }
           },
           {
@@ -189,8 +189,8 @@
   },
   "active": "765b3fe23ce08d1c",
   "lastOpenFiles": [
-    "Attachments - Uncompressed/DE/Lecture 5 (Karsten).pdf",
     "Math/Applied Differential Equations/diffeq.md",
+    "Attachments - Uncompressed/DE/Lecture 5 (Karsten).pdf",
     "Attachments - Uncompressed/DE/Lecture 2 (Karsten).pdf",
     "Attachments - Uncompressed/DE/Lecture 4, Models.pdf",
     "Homelab/Using Gmail SMTP with Cloudflare Email Routing. A Step-by-Step Guide.md",
