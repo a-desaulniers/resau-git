@@ -35,3 +35,4 @@ These notes will be updated periodically, and put in order of what I believe to 
 - [[Yh Walkthrough.pdf|Explanation of Yh in Second Order Systems]]
 - [[Yp Walkthrough.pdf|Explanation of Yp (Oscillator Guesses) in Second Order Systems, Using the Auxiliary method]]
 	- *(if you do not have oscillators, you can just make a regular Yp guess, as was done with first order LTI*
+- [[Full Worked Out Examples.pdf |Worked Out Yp & Yh Examples]]
