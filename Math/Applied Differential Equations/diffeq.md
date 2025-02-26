@@ -37,4 +37,5 @@ These notes will be updated periodically, and put in order of what I believe to 
 	- *(if you do not have oscillators, you can just make a regular Yp guess, as was done with first order LTI*
 - [[Full Worked Out Examples.pdf |Worked Out Yp & Yh Examples]]
 - [[Second Order Example, Two Yp's.pdf|Worked Out Harder Multi-Yp Oscillator Problem]]
+- [[Sketching Second Order DE's + Oscillio.pdf|Sketching Second Order DE's and Oscilliators]]
 

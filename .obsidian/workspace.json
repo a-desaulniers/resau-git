@@ -11,14 +11,12 @@
             "id": "765b3fe23ce08d1c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Math/Applied Differential Equations/diffeq.md",
-                "mode": "source",
-                "source": false
+                "file": "Attachments - Uncompressed/DE/Second Order Example, Two Yp's.pdf"
               },
-              "icon": "lucide-file",
-              "title": "diffeq"
+              "icon": "lucide-file-text",
+              "title": "Second Order Example, Two Yp's"
             }
           },
           {
@@ -189,9 +187,10 @@
   },
   "active": "765b3fe23ce08d1c",
   "lastOpenFiles": [
+    "Math/Applied Differential Equations/diffeq.md",
+    "Attachments - Uncompressed/Sketching Second Order DE's + Oscillio.pdf",
     "Homelab/Using Gmail SMTP with Cloudflare Email Routing. A Step-by-Step Guide.md",
     "Attachments - Uncompressed/DE/Second Order Example, Two Yp's.pdf",
-    "Math/Applied Differential Equations/diffeq.md",
     "Attachments - Uncompressed/DE/Full Worked Out Examples.pdf",
     "index.md",
     "Attachments - Uncompressed/DE/Lecture 5 (Karsten).pdf",
@@ -223,7 +222,6 @@
     "Math/Applied Probability and Statistics/4 - Independence vs Disjunction.md",
     "Math/Applied Probability and Statistics/3 - Bayes Theorem, Conditional Probability, and More Examples.md",
     "Math/Applied Probability and Statistics/1 - Probability Theory.md",
-    "Attachments - Uncompressed/ECED/Additional/Tutorial 9.pdf",
     "Attachments/Header Fermilabs 11th employee_0.jpg",
     "Attachments - Uncompressed/Intel-pentium-ii-dixon-die-shot-high-resolution-stitched.jpg",
     "Math/Applied Probability and Statistics/17 - Hypothesis Tests.md",
