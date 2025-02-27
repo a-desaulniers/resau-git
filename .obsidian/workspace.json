@@ -11,12 +11,14 @@
             "id": "765b3fe23ce08d1c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Attachments - Uncompressed/DE/Second Order Example, Two Yp's.pdf"
+                "file": "Math/Applied Differential Equations/diffeq.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Second Order Example, Two Yp's"
+              "icon": "lucide-file",
+              "title": "diffeq"
             }
           },
           {
@@ -187,10 +189,11 @@
   },
   "active": "765b3fe23ce08d1c",
   "lastOpenFiles": [
+    "Attachments - Uncompressed/Transfer Function.pdf",
     "Math/Applied Differential Equations/diffeq.md",
+    "Attachments - Uncompressed/DE/Second Order Example, Two Yp's.pdf",
     "Attachments - Uncompressed/Sketching Second Order DE's + Oscillio.pdf",
     "Homelab/Using Gmail SMTP with Cloudflare Email Routing. A Step-by-Step Guide.md",
-    "Attachments - Uncompressed/DE/Second Order Example, Two Yp's.pdf",
     "Attachments - Uncompressed/DE/Full Worked Out Examples.pdf",
     "index.md",
     "Attachments - Uncompressed/DE/Lecture 5 (Karsten).pdf",
@@ -204,7 +207,6 @@
     "Attachments - Uncompressed/A-simple-differential-equation-representing-a-theory-driven-model.png",
     "Math/Vector Calculus/vec.md",
     "Math/Applied Probability and Statistics/stats.md",
-    "Math/Applied Differential Equations",
     "Math/Applied Probability and Statistics/2 - Combinations and Permutations.md",
     "aboutme.md",
     "Papers/importanceoffoss.md",
