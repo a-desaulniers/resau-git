@@ -40,3 +40,29 @@ These notes will be updated periodically, and put in order of what I believe to 
 - [[Sketching Second Order DE's + Oscillio.pdf|Sketching Second Order DE's and Oscilliators]]
 - [[Transfer Function.pdf|Transfer Function Example Problem]]
 
+---
+#### LaPlace Transformations
+
+LaPlace Transform Table:
+
+| $T$                  | $S$                                                                                      |
+| -------------------- | ---------------------------------------------------------------------------------------- |
+| $1$                  | $\frac{1}{s}$                                                                            |
+| $t$                  | $\frac{1}{s^2}$                                                                          |
+| $t^n$                | $\frac{n!}{s^{n+1}}$                                                                     |
+| $\sin(kt)$           | $\frac{k}{k^2 + s^2}$                                                                    |
+| $\cos(kt)$           | $\frac{s}{k^2 + s^2}$                                                                    |
+| $e^{at}$             | $\frac{1}{s - a}$                                                                        |
+| $\delta(t)$          | $1$                                                                                      |
+| $\delta(t - a)$      | $e^{-as}$                                                                                |
+| $U(t - a)$           | $\frac{e^{-as}}{s}$                                                                      |
+| $e^{at} f(t)$        | $F(s - a)$ $\text{   FIRST SHIFT THEOREM}$                                               |
+| $( f(t - a)U(t - a)$ | $e^{-as}F(s). \text{  SECOND SHIFT THEOREM. USE ONLY FOR LAPLACE INVERSION}$             |
+| $( g(t)U(t - a)$     | $e^{-as}L[g(t + a)]. ) \text{  SECOND SHIFT THEOREM. USE ONLY FOR LAPLACE TRANSFORMING}$ |
+| $( f^{(n)}(t)$       | $s^n F(s) - s^{n-1} f(0) - s^{n-2} f^{(1)}(0) - \dots - f^{(n-1)}(0) )$                  |
+| $( t^n f(t)$         | $(-1)^n F^{(n)}(s) )$                                                                    |
+| $( (f * g)(t)$       | $\int_0^t f(u)g(t - u)du = \int_0^t f(t - u)g(u)du, F(s)G(s) )$                          |
+
+[[laplace_intro.pdf|Intro to LaPlace Transforms]]
+
+
