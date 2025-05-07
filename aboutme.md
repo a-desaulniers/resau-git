@@ -7,21 +7,23 @@ aliases:
 ---
 <center><h2>About Me!  —  Alexandre DesAulniers 🏕️⛵</h2></center>
 
-![[e285eabc-ad66-4c05-abb9-8436fa40749e_removalai_preview.png| center | 600 ]]
+![[e285eabc-ad66-4c05-abb9-8436fa40749e_removalai_preview.png|700]]
 
-<center><h4>Hi There!</h4></center>
-
-My name is Alexandre DesAulniers, and I'd like to welcome you to my portfolio. 
+<center><h3>Hi There!</h3></center>
+<center><h5> My name is Alexandre DesAulniers, and I'd like to welcome you to my portfolio. </h4></center>
 
 I am a student at Dalhousie University, enrolled in a bachelors of Electronics Engineering. I run [reseau.cabot.place](https://reseau.cabot.place), am an active member of Dalhousie Student government, maintain one of many side projects, work with various humanitarian aid groups, and am a very active member of a great number of communities. You can find a more complete profile on my [LinkedIn](https://www.linkedin.com/in/alex-desau/details/experience/).
 
+
 Likewise, I hold interests in many things Electrical Engineers typically do, but also love being outdoors, managing personal investments, playing Ultimate Frisbee, and being an active member of my community.
+
 
 I am proud of my work on [reseau](https://reseau.cabot.place), and I am continuing to work on notes, papers, and other guides.
 
+
 Please reach out to me at any point at a@desau.ca, and I would be happy to answer any question you may have!
 
-#### Quick Guide 
+## Quick Guide 
 
 - [[aboutme#Education 🏫 |Education 🏫]]
 - [[aboutme#Internships / Work Experience 🗃️|Internships / Work Experience 🗃️]]
