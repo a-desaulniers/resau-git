@@ -6,13 +6,15 @@ tags:
 ---
 ## 🎋 Introduction
 
-Hi there 😊
+Hi there!
 
-My name is Alexandre, and I am an Electrical Engineering student at [Dalhousie University 🐯](https://www.dal.ca/). 
+My name is Alexandre, and I am a third year Electrical Engineering student at [Dalhousie University 🐯](https://www.dal.ca/). 
 
 ![[PXL_20230809_155103802~3.jpg]]
 
-On this site, I hope to publish notes about projects that I am working on, guides, UNIX, Programming, and Mathematics. My main site, [cabot.place](https://cabot.place/) doesn't, and I imagine never will have much on it. It's got a funny spinning (entirely CSS) triangle though! You can read more about what I've done in my [[aboutme|about me!]]
+On this site, I hope to publish notes about projects that I am currently interested in, or that I am working on. This includes guides, UNIX, Programming, the outdoors, and Mathematics. My main site, [cabot.place](https://cabot.place/) doesn't, and I imagine never will, have much on it. It's got a funny spinning triangle. 
+
+You can read more into my portfolio under [[aboutme|about me!]]
 
 This site is being run on my Dell PowerEdge R715 homelab server, being routed through NGINX, and Cloudflare to the open web.  This web base is written entirely in `Markdown`, being interpreted by [Quartz](https://quartz.jzhao.xyz/) into HTML. 
 
