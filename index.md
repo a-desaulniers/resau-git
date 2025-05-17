@@ -38,12 +38,14 @@ This site is being run on my Dell PowerEdge R715 homelab server, being routed th
 **Engineering Electromagnetics/Circuits:**
 
 - [[phys|🧲 Basic Electromagnetics and Circuits]]
-- [[circuits|⚡Electric Circuits I]]
+- [[circuits|🔋Electric Circuits I]]
+- [[circuitsii|⚡Electric Circuits II]]
+- [[digcirc|📟 Digital Circuits]]
 
 **My Academic Papers:**
 
 -  [[nationalcharge|🚙 National Charge: Canadian Federal EV Standards Regulation]]
--  [[importanceoffoss|🌐 The Vital Importance of FOSS:The GNU/Linux Operating System]]
+-  [[importanceoffoss|🌐 The Vital Importance of FOSS: The GNU & Linux Operating System]]
 
  I hope you can learn something from me, and am always happy to respond to emails!
 

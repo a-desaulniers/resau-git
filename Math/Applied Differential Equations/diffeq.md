@@ -41,11 +41,11 @@ These notes will be updated periodically, and put in order of what I believe to 
 - [[Transfer Function.pdf|Transfer Function Example Problem]]
 
 ---
-#### LaPlace Transformations
+#### LaPlace Transformations 
 
-LaPlace Transform Table:
-
-| $T$                  | $S$                                                                                      |
+>[!example] LaPlace Transform Table:
+> 
+>| $T$                  | $S$                                                                                      |
 | -------------------- | ---------------------------------------------------------------------------------------- |
 | $1$                  | $\frac{1}{s}$                                                                            |
 | $t$                  | $\frac{1}{s^2}$                                                                          |
@@ -62,7 +62,22 @@ LaPlace Transform Table:
 | $( f^{(n)}(t)$       | $s^n F(s) - s^{n-1} f(0) - s^{n-2} f^{(1)}(0) - \dots - f^{(n-1)}(0) )$                  |
 | $( t^n f(t)$         | $(-1)^n F^{(n)}(s) )$                                                                    |
 | $( (f * g)(t)$       | $\int_0^t f(u)g(t - u)du = \int_0^t f(t - u)g(u)du, F(s)G(s) )$                          |
+>
+>
+>
+>
 
-[[laplace_intro.pdf|Intro to LaPlace Transforms]]
+- [[laplace_intro.pdf|Intro to LaPlace Transforms]]
+- [[Switches & Step Functions.pdf|Switches & Step Functions]]
+	- [[Switches.pdf|Switches contd.]]
 
+- [[Delta Functions.pdf|Delta Functions]]
+---
+#### Fourier Series 
 
+[[Fourier Series.pdf|Fourier Series]]
+
+---
+#### Additional Items of Note
+
+[[Completing the Square.pdf|Completion of the Square]]

@@ -173,7 +173,7 @@ Dalhousie University
 ![[images-modified.png|70]]
 
 ##### Volunteer — Guatemala Engineering Brigades (2025)   
-Global Brigades, Inc. Canada
+Global Brigades, Inc. Canada 
 <font color="#7f7f7f">Nov 2024 - May 2025</font>      
 <font color="#7f7f7f">Cruz De Santiago, Chimaltenango, Guatemala · On-site</font>   
 

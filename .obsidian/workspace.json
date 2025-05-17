@@ -11,41 +11,30 @@
             "id": "765b3fe23ce08d1c",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Attachments - Uncompressed/Switches.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Switches"
+            }
+          },
+          {
+            "id": "d88b3697f219c3f4",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "aboutme.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aboutme"
-            }
-          },
-          {
-            "id": "2198328f7af7d58f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Attachments - Uncompressed/DE/Lecture 4, Models.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture 4, Models"
-            }
-          },
-          {
-            "id": "8e501da4eef7df97",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Attachments - Uncompressed/PXL_20241017_123411043.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "PXL_20241017_123411043"
+              "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,39 +176,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "765b3fe23ce08d1c",
+  "active": "d88b3697f219c3f4",
   "lastOpenFiles": [
+    "Physics/Digital Circuits/digcirc.md",
+    "index.md",
+    "Physics/Year One Physics (EM)/phys.md",
+    "Physics/Electric Circuits/circuits.md",
+    "Physics/Electric Circuits/circuitsii.md",
+    "Attachments - Uncompressed/Lecture 2.pdf",
+    "Lecture 4 1.pdf",
+    "Attachments - Uncompressed/Lecture 4.pdf",
+    "Attachments - Uncompressed/Lecture 7.pdf",
+    "Attachments - Uncompressed/Logic Gates(1).pdf",
+    "Attachments - Uncompressed/Pasted image 20250517011853.png",
+    "Physics/Digital Circuits",
+    "Attachments - Uncompressed/Frequency Response.pdf",
+    "aboutme.md",
+    "Attachments - Uncompressed/Lecture 3.pdf",
+    "Attachments - Uncompressed/Three Phase.pdf",
+    "Attachments - Uncompressed/Transformers.pdf",
+    "Math/Applied Differential Equations/diffeq.md",
+    "Homelab/Dell PowerEdge R715/imessage.md",
     "Attachments - Uncompressed/1737301230527.jpg",
     "Attachments - Uncompressed/1746044273450.jpg",
     "Attachments - Uncompressed/images-modified.png",
     "Attachments - Uncompressed/Screenshot 2025-03-31 223154.png",
     "Attachments - Uncompressed/Screenshot_20250320-094621.png",
-    "index.md",
-    "aboutme.md",
-    "Screenshot_20250320-094621.png.~tmp",
     "IMG_1553.HEIC.jpg",
     "IMG_1553.HEIC 1.jpg",
     "Attachments - Uncompressed/Copy of 039 1.jpg",
     "Attachments - Uncompressed/Copy of 039.jpg",
-    "Attachments - Uncompressed/1737301230527(1).jpg",
-    "Attachments - Uncompressed/1746044026178.jpg",
     "Papers/importanceoffoss.md",
     "Papers/nationalcharge.md",
     "Homelab/Using Gmail SMTP with Cloudflare Email Routing. A Step-by-Step Guide.md",
-    "Math/Applied Differential Equations/diffeq.md",
-    "Attachments - Uncompressed/laplace_intro.pdf",
-    "Attachments - Uncompressed/Transfer Function.pdf",
-    "Attachments - Uncompressed/DE/Second Order Example, Two Yp's.pdf",
-    "Attachments - Uncompressed/Sketching Second Order DE's + Oscillio.pdf",
-    "Attachments - Uncompressed/DE/Full Worked Out Examples.pdf",
-    "Attachments - Uncompressed/DE/Lecture 5 (Karsten).pdf",
-    "Attachments - Uncompressed/DE/Lecture 2 (Karsten).pdf",
-    "Attachments - Uncompressed/DE/Lecture 4, Models.pdf",
-    "Attachments - Uncompressed/DE/Yp Walkthrough.pdf",
     "Math/Vector Calculus/vec.md",
     "Math/Applied Probability and Statistics/stats.md",
     "Math/Applied Probability and Statistics/2 - Combinations and Permutations.md",
-    "Physics/Electric Circuits/circuits.md",
     "Math/Applied Probability and Statistics/15 - Confidence Intervals on a Difference in Mean.md",
     "Math/Applied Probability and Statistics/16 - Confidence Intervals on Proportions.md",
     "Math/Applied Probability and Statistics/Summary of Statistics Distributions.md",
@@ -232,9 +224,6 @@
     "Math/Applied Probability and Statistics/4 - Independence vs Disjunction.md",
     "Math/Applied Probability and Statistics/3 - Bayes Theorem, Conditional Probability, and More Examples.md",
     "Math/Applied Probability and Statistics/1 - Probability Theory.md",
-    "Math/Applied Probability and Statistics/17 - Hypothesis Tests.md",
-    "Math/Applied Probability and Statistics/12 - Normal and Lognormal Distributions.md",
-    "Math/Applied Probability and Statistics/11 - Continuous Distributions Continued.md",
     "Attachments/Dalhousie Requirements and Outlines.canvas",
     "Math/Attachments/Dalhousie Requirements and Outlines.canvas"
   ]
