@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Math/Applied Differential Equations/diffeq.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "diffeq"
             }
           }
         ],
@@ -179,6 +179,9 @@
   "active": "d88b3697f219c3f4",
   "lastOpenFiles": [
     "Physics/Digital Circuits/digcirc.md",
+    "Math/Applied Differential Equations/diffeq.md",
+    "Attachments - Uncompressed/Switches & Step Functions.pdf",
+    "Homelab/Using Gmail SMTP with Cloudflare Email Routing. A Step-by-Step Guide.md",
     "index.md",
     "Physics/Year One Physics (EM)/phys.md",
     "Physics/Electric Circuits/circuits.md",
@@ -194,8 +197,6 @@
     "aboutme.md",
     "Attachments - Uncompressed/Lecture 3.pdf",
     "Attachments - Uncompressed/Three Phase.pdf",
-    "Attachments - Uncompressed/Transformers.pdf",
-    "Math/Applied Differential Equations/diffeq.md",
     "Homelab/Dell PowerEdge R715/imessage.md",
     "Attachments - Uncompressed/1737301230527.jpg",
     "Attachments - Uncompressed/1746044273450.jpg",
@@ -208,7 +209,6 @@
     "Attachments - Uncompressed/Copy of 039.jpg",
     "Papers/importanceoffoss.md",
     "Papers/nationalcharge.md",
-    "Homelab/Using Gmail SMTP with Cloudflare Email Routing. A Step-by-Step Guide.md",
     "Math/Vector Calculus/vec.md",
     "Math/Applied Probability and Statistics/stats.md",
     "Math/Applied Probability and Statistics/2 - Combinations and Permutations.md",
@@ -223,7 +223,6 @@
     "Math/Applied Probability and Statistics/5 - Total Probability Theorem, and Event Trees.md",
     "Math/Applied Probability and Statistics/4 - Independence vs Disjunction.md",
     "Math/Applied Probability and Statistics/3 - Bayes Theorem, Conditional Probability, and More Examples.md",
-    "Math/Applied Probability and Statistics/1 - Probability Theory.md",
     "Attachments/Dalhousie Requirements and Outlines.canvas",
     "Math/Attachments/Dalhousie Requirements and Outlines.canvas"
   ]
