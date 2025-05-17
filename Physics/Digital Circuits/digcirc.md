@@ -18,7 +18,7 @@ For her contributions to digital electronics education, and provision of knowled
 ---
 ##### Lecture Notes
 
-[[Attachments - Uncompressed/Lecture 2.pdf|Introduction to Logic Gates]]  
-[[Lecture 4 1.pdf|Adders & Number Systems]] 
-[[Logic Gates(1).pdf|Logic Gate Elements & Multiplexers]] *(lengthy)* 
-[[Attachments - Uncompressed/Lecture 7.pdf|Hazards & Karnuagh Mapping]] 
+- [[Attachments - Uncompressed/Lecture 2.pdf|Introduction to Logic Gates]]  
+- [[Lecture 4 1.pdf|Adders & Number Systems]] 
+- [[Logic Gates(1).pdf|Logic Gate Elements & Multiplexers]] *(lengthy)* 
+- [[Attachments - Uncompressed/Lecture 7.pdf|Hazards & Karnuagh Mapping]] 

@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Applied Differential Equations/diffeq.md",
+                "file": "Physics/Digital Circuits/digcirc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "diffeq"
+              "title": "digcirc"
             }
           }
         ],
@@ -178,14 +178,14 @@
   },
   "active": "d88b3697f219c3f4",
   "lastOpenFiles": [
-    "Physics/Digital Circuits/digcirc.md",
+    "Physics/Electric Circuits/circuitsii.md",
     "Math/Applied Differential Equations/diffeq.md",
+    "Physics/Digital Circuits/digcirc.md",
     "Attachments - Uncompressed/Switches & Step Functions.pdf",
     "Homelab/Using Gmail SMTP with Cloudflare Email Routing. A Step-by-Step Guide.md",
     "index.md",
     "Physics/Year One Physics (EM)/phys.md",
     "Physics/Electric Circuits/circuits.md",
-    "Physics/Electric Circuits/circuitsii.md",
     "Attachments - Uncompressed/Lecture 2.pdf",
     "Lecture 4 1.pdf",
     "Attachments - Uncompressed/Lecture 4.pdf",
