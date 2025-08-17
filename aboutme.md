@@ -12,10 +12,10 @@ aliases:
 <center><h3>Hi There!</h3></center>
 <center><h5> My name is Alexandre DesAulniers, and I'd like to welcome you to my portfolio. </h4></center>
 
-I am a student at Dalhousie University, enrolled in a bachelors of Electronics Engineering. I run [reseau.cabot.place](https://reseau.cabot.place), am an active member of Dalhousie Student government, maintain one of many side projects, work with various humanitarian aid groups, and am a very active member of a great number of communities. You can find a more complete profile on my [LinkedIn](https://www.linkedin.com/in/alex-desau/details/experience/).
+I am a student at Dalhousie University, enrolled in a bachelors of Electrical & Electronics Engineering. I run [reseau.cabot.place](https://reseau.cabot.place), am an active member of Dalhousie Student government, maintain one of many side projects, work with various humanitarian aid groups, and am a very active member of my communities. You can find a more complete profile on my [LinkedIn](https://www.linkedin.com/in/alex-desau/details/experience/).
 
 
-Likewise, I hold interests in many things Electrical Engineers typically do, but also love being outdoors, managing personal investments, playing Ultimate Frisbee, and being an active member of my community.
+Likewise, I hold interests in many things Electrical Engineers typically do, but also love the great outdoors, cycling, managing investments, photography, personal fitness, lifesaving and being an active member of my community.
 
 
 I am proud of my work on [reseau](https://reseau.cabot.place), and I am continuing to work on notes, papers, and other guides.
@@ -28,7 +28,7 @@ Please reach out to me at any point at a@desau.ca, and I would be happy to answe
 - [[aboutme#Education 🏫 |Education 🏫]]
 - [[aboutme#Internships / Work Experience 🗃️|Internships / Work Experience 🗃️]]
 - [[aboutme#Student Involvement 🎋|Student Involvement 🎋-]]
-
+- [[aboutme#Personal Interests and Projects 🦚|Personal Interests and Projects 🦚]]
 
 ---
 # Education 🏫
@@ -40,13 +40,13 @@ Bachelor of Engineering — BE, Electrical and Electronics Engineering
 <font color="#7f7f7f">Halifax, Nova Scotia, Canada · On-site</font>
 
 - Undergraduate in Electrical Engineering | *Expected Graduation: April 2028*
-	- Proficiency in SOLIDWORKS, LT/PSpice, MATLAB, UNIX and the C/C++ programming language & accompanying data structures among others
+	- Proficiency in SOLIDWORKS, LT/PSpice, KiCAD, MATLAB, UNIX, BASH and the C/C++ programming language & accompanying data structures among others
 	- Dalhousie Gearheads — Team Lead
 	- Dalhousie Diploma Of Engineering Society — Board Chair
 	- Dalhousie Engineering Global Brigades — Humanitarian Aid Volunteer
 	- Dalhousie Engineering Student Council (ESC) Speaker/Voting Member
 	- Sexton Leader Program Delegate (2025)  
-	- Bob Walter Award Recipient — DES (2025)  
+	- Bob Walter Award Recipient — Dalhousie Diploma Of Engineering Society (2025)  
 	- Dalhousie Impact Award Nominee, Faculty of Engineering (2025)
 	- Dalhousie Engineering Student Liaison/Ambassador
 	- Dalhousie SAS Notetaker
@@ -88,10 +88,10 @@ Mosaic Clinic and Pharmacy
 <font color="#7f7f7f">Dec 2023 - Oct 2024</font>     
 <font color="#7f7f7f">Halifax, Nova Scotia, Canada · On-site</font>
 
--  Assisted with procurement of pharmacy and healthcare terminals, and IT infrastructure.  
--  Provided primary consulting for on-site systems.  
--  Led installation of pharmacy and healthcare systems.  
--  Managed networking on-site client terminals and servers.
+- Provided primary consulting for on-site system procurement, software management, and backup solutions.  
+- Led installation of pharmacy and healthcare systems, and provided consulting with Microsoft Active Directory/LDAP  
+- Assisted with procurement of pharmacy and healthcare terminals, business IT infrastructure design, and Infrastructure Cost Analysis.  
+- Designed & assisted in implementation of local VLAN networking of on-site client terminals, location surveillance and on-prem servers & databases.
 
  ![[PXL_20240825_234630203.jpg|290]]![[PXL_20240825_234521913(1).jpg|217]]
 
@@ -103,8 +103,9 @@ ATLAS Space Academy — Galaxia Mission Systems
 <font color="#7f7f7f">Jul 2022 – Sep 2023</font>    
 <font color="#7f7f7f">Halifax, Nova Scotia, Canada · Volunteer</font>
 
-- Volunteer at SuperNOVA, a Canadian STEM non-profit, as an instructor in the ATLAS program mentoring high school students in building cube satellite replicas using single-board computers (SBC's). Replicas were based on the LORIS CubeSat platform, designed by Galaxia Mission Systems, and Dalhousie Space Systems Lab (DSS). 
-- Primary roles were as a youth instructor, programming assistant, and assembling and bug testing CubeSat prototypes for lessons.
+- Through a partnership with Galaxia Mission Systems & SuperNOVA, a Canadian STEM non- profit, I participated as an instructor in the ATLAS program — working with older high school students to build cube satellite replicas using single-board RISC computers (SBC's) based on the LORIS CubeSat platform, designed by Galaxia Mission Systems, and Dalhousie Space Systems Lab (DSS). I worked with students building familiarity with passive electronics components, Python software development, and BASH interfacing.
+
+- Primary roles were as a youth instructor, programming assistant, assembling and bug testing  CubeSat prototypes for lessons.
 
 
 ![[atlas-class.jpg|222]]![[Pasted image 20241019205225.png|150]] ![[Pasted image 20241019205441.png|315]]
@@ -116,6 +117,9 @@ ATLAS Space Academy — Galaxia Mission Systems
 <font color="#7f7f7f">Sep 2021 — Present</font>    
 <font color="#7f7f7f">Halifax, Nova Scotia, Canada · On-site</font>    
 
+- **Duty Manager**    
+	- <font color="#7f7f7f">May 2025 — Present </font>
+	
 - **Aquatics Supervisor**    
 	- <font color="#7f7f7f">Apr 2024 — Present </font>   
 	
@@ -135,6 +139,9 @@ ATLAS Space Academy — Galaxia Mission Systems
 
 --
 - Active Lifesaving Society/CPR C instructor, Program Volunteer
+- Connecting with our community members & staff teams.  
+- Supporting staff teams & programming, where needed, and where not. Ensuring staff feel appreciated, and driven.  
+- Leading in conflict resolution & de-escalation, and facility emergency situations.
 - Recipient of the 2024 Langille Scholarship
 
 ![[1726149776392.jpg|188]]![[Pasted image 20241019211759.png|404]]
@@ -148,20 +155,26 @@ Dalhousie University
 <font color="#7f7f7f">Aug 2024 - Present</font>      
 <font color="#7f7f7f">Halifax, Nova Scotia, Canada · On-site</font>   
 
-- Empowering students through engagement and opportunity.  
+- Gearheads empowers Dalhousie Engineering students through engagement and opportunity!  
+  
+	- **Rebuilt & Leading Sexton Pinions Program:**
+		Connecting over 100 students (and growing!) with campus volunteer and outreach opportunities through our Gearheads PDB™ (Pinion Distribution Board) volunteer channels.  
+  
+	- **Promoting & Managing Middle & High School Outreach**: 
+		Gearheads is proud to be working with the Faculty of Engineering, creating and providing programming to inspire future engineers through school workshops, activities, & engagement  
+  
+	- **Integrating First-Year Engineers:** 
+		Gearheads is proud to provide critical support and community access to our incoming first years, assisting programs such as the Together@Dal student mentor program, and faculty onboarding.  
+  
+	- **Managed Gearheads Finances as Finance Lead & Secured Sponsorships:**
+		Ensuring the society's financial health using created tools such as the Gearheads BTT™ (Budget Tracking Tool), PDB™ and team communication.  
+  
+	- **Funding Development (and fun!)**  
+		 Funded, collaborated, planned, and managed on Campus activities such as the Canadian Cancer Society's Eng V. Comms 25', Dalhousie Engineering Global Brigades' Battle of the Bands for Water Fundraiser, and Gearheads' very own Halloween at the Design Commons 24'.  
+  
+I am proud to fight for student funding, identity, community, opportunity, and belonging!
 	
-	**Rebuilt & Leading Sexton Pinions Program**: Connecting over 100 students (and growing!) with campus volunteer and outreach opportunities.  
-	  
-	**Developing HRCE Outreach**: Inspiring future engineers through school engagement.  
-	  
-	**Integrating First-Year Engineers**: Providing critical support and community access to our incoming first years, assisting programs such as the Together@Dal student mentor program.  
-	  
-	**Managed Finances & Secured Sponsorships**: Ensuring the society's financial health.  
-	  
-	**Funding Development (and fun!)**
-	Funded, collaborated, planned, and managed on Campus activities such as Eng V. Comms 25', Battle of the Bands, Halloween at the Design Commons 24'.
-	
-- Engineering Student Council (ESC) Speaker/Voter
+- Sitting Engineering Student Council (ESC) Representative/Voter
 
 ![[1737301230527(1).jpg| center | 600]]
 ![[Copy of 039 1.jpg| center | 600]]
@@ -203,6 +216,16 @@ Dalhousie Diploma Of Engineering — Dalhousie University
 
 ---
 
+![[AEC_Big_Logo_No_Background.png|80]]
+##### Vice President Technology    
+ACES - CEGA | Atlantic Engineering Competition (AEC) 2026    
+<font color="#7f7f7f">Apr 2025 - Present</font>   
+<font color="#7f7f7f">Halifax, Nova Scotia, Canada · On-site</font>    
+
+- Leading in design of the 2025/2026 Competition Year's domain management & email systems, social working integration, and wireless access, alongside on-site management.
+
+---
+
 ![[dalhousie_university_logo-modified.png |70]]
 ##### Engineering Peer Mentorship Coordinator/Mentor    
 Dalhousie University    
@@ -230,5 +253,29 @@ Dalhousie University
 	- **CPST1203 — Technical Communications II**
 
 ---
+# Personal Interests and Projects 🦚
+
+- Road Cycling <sup><sub>(*Riding a Giant TCR SLR II*)</sub></sup>
+- Geography, Global History & Geopolitics
+- Photography <sup><sub>(*I shoot on Sony E-Mount, α6400*)</sub></sup>
+- Financial Management (*with specific interests in*)
+	- Simplified Free Financial Education
+		- Credit Education
+		- How Everyday Canadians can **Leverage CRA Registered Accounts**
+	- Microcap Canadian Emerging Resource Equities
+	- Sustainable, Ethical and Equitable Business practice
+	- Financial Planning
+
+- Home Networking & wiring, & on premise computing. 
+- Sustainable (*low cost, user installable!*) Energy Solutions. *(& transportation*)
+- Outdoor Management & Accessibility. 
+- Personal Fitness, and nutrition
+- Lifesaving, and First Aid Education & Promotion
+- Cooking! 🍲 
+
+---
+
+![[Pasted image 20250816200809.png]]
+<center><sup><sub>Sexton Leader Program Delegates - 2025    (Dalhousie Engineering)</sub></sup></center>
 
 

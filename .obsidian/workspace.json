@@ -13,28 +13,49 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Attachments - Uncompressed/Switches.pdf"
+                "file": "Attachments - Uncompressed/DE/4.2 General Fourier.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Switches"
+              "title": "4.2 General Fourier"
             }
           },
           {
-            "id": "d88b3697f219c3f4",
+            "id": "80c7a023faa27fa9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Physics/Digital Circuits/digcirc.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.8.10"
               },
-              "icon": "lucide-file",
-              "title": "digcirc"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
+          },
+          {
+            "id": "2198328f7af7d58f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Attachments - Uncompressed/DE/Lecture 4, Models.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lecture 4, Models"
+            }
+          },
+          {
+            "id": "8e501da4eef7df97",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Attachments - Uncompressed/PXL_20241017_123411043.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "PXL_20241017_123411043"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,42 +197,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d88b3697f219c3f4",
+  "active": "f7ea33b349b2bd73",
   "lastOpenFiles": [
-    "Physics/Electric Circuits/circuitsii.md",
-    "Math/Applied Differential Equations/diffeq.md",
-    "Physics/Digital Circuits/digcirc.md",
-    "Attachments - Uncompressed/Switches & Step Functions.pdf",
-    "Homelab/Using Gmail SMTP with Cloudflare Email Routing. A Step-by-Step Guide.md",
-    "index.md",
-    "Physics/Year One Physics (EM)/phys.md",
-    "Physics/Electric Circuits/circuits.md",
-    "Attachments - Uncompressed/Lecture 2.pdf",
-    "Lecture 4 1.pdf",
-    "Attachments - Uncompressed/Lecture 4.pdf",
-    "Attachments - Uncompressed/Lecture 7.pdf",
-    "Attachments - Uncompressed/Logic Gates(1).pdf",
-    "Attachments - Uncompressed/Pasted image 20250517011853.png",
-    "Physics/Digital Circuits",
-    "Attachments - Uncompressed/Frequency Response.pdf",
     "aboutme.md",
-    "Attachments - Uncompressed/Lecture 3.pdf",
-    "Attachments - Uncompressed/Three Phase.pdf",
-    "Homelab/Dell PowerEdge R715/imessage.md",
+    "index.md",
+    "Attachments - Uncompressed/DE/1.1 Basic Theory.pdf",
+    "Attachments - Uncompressed/DE/1.1 Basic Theory.pdf",
+    "Math/Applied Differential Equations/diffeq.md",
+    "Attachments - Uncompressed/DE/1.2 Non-Homogeneous DE's with Constant Coefficients.pdf",
+    "Attachments - Uncompressed/DE/1.3 Applications.pdf",
+    "Attachments - Uncompressed/DE/2.1 Systems of DE's.pdf",
+    "Attachments - Uncompressed/DE/2.2 Solving With Eigen.pdf",
+    "Attachments - Uncompressed/DE/2.3 Vector Fields.pdf",
+    "Attachments - Uncompressed/DE/3.1 Second Order Systems of DE's.pdf",
+    "Attachments - Uncompressed/DE/3.2 Repeated Eigenvalues.pdf",
+    "Attachments - Uncompressed/DE/3.3 Matrix Exponentials.pdf",
+    "Attachments - Uncompressed/Pasted image 20250816200809.png",
+    "Attachments - Uncompressed/AEC_Big_Logo_No_Background.png",
+    "1754007802192 1.jpg",
+    "1754007802192.jpg",
+    "1754007802192-removebg-preview.png",
+    "Homelab/Using Gmail SMTP with Cloudflare Email Routing. A Step-by-Step Guide.md",
+    "Physics/Electric Circuits/circuitsii.md",
+    "Physics/Digital Circuits/digcirc.md",
+    "Attachments - Uncompressed/Pasted image 20250517011853.png",
     "Attachments - Uncompressed/1737301230527.jpg",
     "Attachments - Uncompressed/1746044273450.jpg",
     "Attachments - Uncompressed/images-modified.png",
     "Attachments - Uncompressed/Screenshot 2025-03-31 223154.png",
-    "Attachments - Uncompressed/Screenshot_20250320-094621.png",
-    "IMG_1553.HEIC.jpg",
-    "IMG_1553.HEIC 1.jpg",
-    "Attachments - Uncompressed/Copy of 039 1.jpg",
-    "Attachments - Uncompressed/Copy of 039.jpg",
     "Papers/importanceoffoss.md",
     "Papers/nationalcharge.md",
     "Math/Vector Calculus/vec.md",
     "Math/Applied Probability and Statistics/stats.md",
     "Math/Applied Probability and Statistics/2 - Combinations and Permutations.md",
+    "Physics/Electric Circuits/circuits.md",
     "Math/Applied Probability and Statistics/15 - Confidence Intervals on a Difference in Mean.md",
     "Math/Applied Probability and Statistics/16 - Confidence Intervals on Proportions.md",
     "Math/Applied Probability and Statistics/Summary of Statistics Distributions.md",
@@ -223,6 +242,8 @@
     "Math/Applied Probability and Statistics/5 - Total Probability Theorem, and Event Trees.md",
     "Math/Applied Probability and Statistics/4 - Independence vs Disjunction.md",
     "Math/Applied Probability and Statistics/3 - Bayes Theorem, Conditional Probability, and More Examples.md",
+    "Math/Applied Probability and Statistics/1 - Probability Theory.md",
+    "Math/Applied Probability and Statistics/17 - Hypothesis Tests.md",
     "Attachments/Dalhousie Requirements and Outlines.canvas",
     "Math/Attachments/Dalhousie Requirements and Outlines.canvas"
   ]
