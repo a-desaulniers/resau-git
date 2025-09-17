@@ -12,7 +12,7 @@ aliases:
 <center><h3>Hi There!</h3></center>
 <center><h5> My name is Alexandre DesAulniers, and I'd like to welcome you to my portfolio. </h4></center>
 
-I am a student at Dalhousie University, enrolled in a bachelors of Electrical & Electronics Engineering. I am an active member of Dalhousie Student government, maintain one of many side projects, work with various humanitarian aid groups, and work hard to be a very active member of my communities. You can find an alternative profile on my [LinkedIn](https://www.linkedin.com/in/alex-desau/details/experience/).
+I am a student at Dalhousie University, enrolled in a bachelors of Electrical & Electronics Engineering. I am an active member of Dalhousie Student government, maintain one of many side projects, work with various humanitarian aid groups, and work hard to be a very active member of my communities. You can find an alternative profile on my [LinkedIn](https://www.linkedin.com/in/alex-desau/).
 
 
 Likewise, I hold interests in many things Electrical Engineers typically do, but also love the great outdoors, cycling, managing investments, photography, personal fitness, lifesaving and being an active member of my community.
