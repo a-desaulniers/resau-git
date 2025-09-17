@@ -1,5 +1,5 @@
 ---
-title: 
+title: About Me!  —  Alexandre DesAulniers
 draft: 
 tags:
   - Introductions
@@ -25,10 +25,10 @@ Please reach out to me at any point at a@desau.ca, and I would be happy to answe
 
 ## Quick Guide 
 
-- [[aboutme#Education 🏫 |Education 🏫]]
-- [[aboutme#Internships / Work Experience 🗃️|Internships / Work Experience 🗃️]]
-- [[aboutme#Student Involvement 🎋|Student Involvement 🎋-]]
-- [[aboutme#Personal Interests and Projects 🦚|Personal Interests and Projects 🦚]]
+- [[About Me!  —  Alexandre DesAulniers#Education 🏫|Education 🏫]]
+- [[About Me!  —  Alexandre DesAulniers#Internships / Work Experience 🗃️|Internships / Work Experience 🗃️]]
+- [[About Me!  —  Alexandre DesAulniers#Student Involvement 🎋|Student Involvement 🎋-]]
+- [[About Me!  —  Alexandre DesAulniers#Personal Interests and Projects 🦚|Personal Interests and Projects 🦚]]
 
 ---
 # Education 🏫
@@ -191,9 +191,9 @@ I am proud to fight for student funding, identity, community, opportunity, and b
 
 ![[images-modified.png|70]]
 ##### Funding Partner Liaison — Panama Engineering Brigades (2026)
-Global Brigades, Inc. Canada 
+Global Brigades, Inc. Canada       
 <font color="#7f7f7f">Aug 2025 - Present</font>      
-<font color="#7f7f7f">Dalhousie University · On-site</font>   
+<font color="#7f7f7f">Halifax, Nova Scotia, Canada · On-site</font>   
 
 ---
 
