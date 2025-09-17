@@ -1,18 +1,18 @@
 ---
-title: About Me! —  Alexandre DesAulniers
+title: 
 draft: 
 tags:
   - Introductions
 aliases:
 ---
-<center><h2>About Me!  —  Alexandre DesAulniers 🏕️⛵</h2></center>
+<center><h2>About Me!  —  Alexandre DesAulniers</h2></center>
 
 ![[e285eabc-ad66-4c05-abb9-8436fa40749e_removalai_preview.png|700]]
 
 <center><h3>Hi There!</h3></center>
 <center><h5> My name is Alexandre DesAulniers, and I'd like to welcome you to my portfolio. </h4></center>
 
-I am a student at Dalhousie University, enrolled in a bachelors of Electrical & Electronics Engineering. I run [reseau.cabot.place](https://reseau.cabot.place), am an active member of Dalhousie Student government, maintain one of many side projects, work with various humanitarian aid groups, and am a very active member of my communities. You can find a more complete profile on my [LinkedIn](https://www.linkedin.com/in/alex-desau/details/experience/).
+I am a student at Dalhousie University, enrolled in a bachelors of Electrical & Electronics Engineering. I am an active member of Dalhousie Student government, maintain one of many side projects, work with various humanitarian aid groups, and work hard to be a very active member of my communities. You can find an alternative profile on my [LinkedIn](https://www.linkedin.com/in/alex-desau/details/experience/).
 
 
 Likewise, I hold interests in many things Electrical Engineers typically do, but also love the great outdoors, cycling, managing investments, photography, personal fitness, lifesaving and being an active member of my community.
@@ -43,7 +43,7 @@ Bachelor of Engineering — BE, Electrical and Electronics Engineering
 	- Proficiency in SOLIDWORKS, LT/PSpice, KiCAD, MATLAB, UNIX, BASH and the C/C++ programming language & accompanying data structures among others
 	- Dalhousie Gearheads — Team Lead
 	- Dalhousie Diploma Of Engineering Society — Board Chair
-	- Dalhousie Engineering Global Brigades — Humanitarian Aid Volunteer
+	- Dalhousie Engineering Global Brigades — Funding Partner Liaison
 	- Dalhousie Engineering Student Council (ESC) Speaker/Voting Member
 	- Sexton Leader Program Delegate (2025)  
 	- Bob Walter Award Recipient — Dalhousie Diploma Of Engineering Society (2025)  
@@ -70,16 +70,6 @@ Dalhousie University
 
 
 ![[PXL_20230425_162035429_batcheditor_fotor.jpg| center | 500]]
-
----
-
-![[collabbydearlife_logo-modified.png|70]]
-##### DevOps Intern    
-Collab.   
-<font color="#7f7f7f">Dec 2021 - Jun 2022</font>    
-<font color="#7f7f7f">Halifax, Nova Scotia, Canada · On-site</font>
-- Supported in focusing development and marketing material towards targeting young adult demographics.  
-- Assisted the development team developing using the Flutter app platform and AWS EC2 cloud infrastructure deployment.
 
 ---
 ![[qt=q_95 1.webp|70]]
@@ -147,6 +137,16 @@ ATLAS Space Academy — Galaxia Mission Systems
 ![[1726149776392.jpg|188]]![[Pasted image 20241019211759.png|404]]
 
 ---
+
+![[collabbydearlife_logo-modified.png|70]]
+##### DevOps Intern    
+Collab.   
+<font color="#7f7f7f">Dec 2021 - Jun 2022</font>    
+<font color="#7f7f7f">Halifax, Nova Scotia, Canada · On-site</font>
+- Supported in focusing development and marketing material towards targeting young adult demographics.  
+- Assisted the development team developing using the Flutter app platform and AWS EC2 cloud infrastructure deployment.
+
+---
 # Student Involvement 🎋
 
 ![[Untitled-modified.png|70]]
@@ -158,19 +158,25 @@ Dalhousie University
 - Gearheads empowers Dalhousie Engineering students through engagement and opportunity!  
   
 	- **Rebuilt & Leading Sexton Pinions Program:**
-		Connecting over 100 students (and growing!) with campus volunteer and outreach opportunities through our Gearheads PDB™ (Pinion Distribution Board) volunteer channels.  
-  
-	- **Promoting & Managing Middle & High School Outreach**: 
-		Gearheads is proud to be working with the Faculty of Engineering, creating and providing programming to inspire future engineers through school workshops, activities, & engagement  
+		Connecting over 300 students (and growing!) with campus volunteer and outreach opportunities through our Gearheads PDB™ (Pinion Distribution Board) volunteer channels.  
+
+	- **Brand Building:**
+		Rebuilt the Dalhousie Gearheads brand from an unknown, & five-year inactive society post-COVID. Gearheads has become a Dalhousie Engineering staple name, brand, and presence, influencing over 40,000 impressions in monthly social media engagement, and working with hundreds of students yearly.
   
 	- **Integrating First-Year Engineers:** 
 		Gearheads is proud to provide critical support and community access to our incoming first years, assisting programs such as the Together@Dal student mentor program, and faculty onboarding.  
   
 	- **Managed Gearheads Finances as Finance Lead & Secured Sponsorships:**
-		Ensuring the society's financial health using created tools such as the Gearheads BTT™ (Budget Tracking Tool), PDB™ and team communication.  
+		Managed Gearheads Finances as Finance Lead & Secured Sponsorships: Ensuring the society's financial health using created tools such as the Gearheads BTT™ (Budget Tracking Tool), managing and auditing all society transactions, reimbursement, financial planning, grant headhunting, and team communication.
+
+	- **Society Recruitment & Operations:**
+		Managed and executed recruitment of core Gearheads team members during the 2024' - 26' year period, who are now leading in on-campus activities, grant operations, society planning, social media presence, and more.
+
+	- **Promoting & Managing Middle & High School Outreach**: 
+		Gearheads is proud to be working with the Faculty of Engineering, creating and providing programming to inspire future engineers through school workshops, activities, & engagement  
   
 	- **Funding Development (and fun!)**  
-		 Funded, collaborated, planned, and managed on Campus activities such as the Canadian Cancer Society's Eng V. Comms 25', Dalhousie Engineering Global Brigades' Battle of the Bands for Water Fundraiser, and Gearheads' very own Halloween at the Design Commons 24'.  
+		 Funded, collaborated, planned, and managed on Campus activities such as the Canadian Cancer Society's Eng V. Comms 25', Dalhousie Engineering Global Brigades' Battle of the Bands for Water Fundraiser, & Gearheads' efforts for Orientation and Faculty Events.  
   
 I am proud to fight for student funding, identity, community, opportunity, and belonging!
 	
@@ -184,7 +190,14 @@ I am proud to fight for student funding, identity, community, opportunity, and b
 ---
 
 ![[images-modified.png|70]]
+##### Funding Partner Liaison — Panama Engineering Brigades (2026)
+Global Brigades, Inc. Canada 
+<font color="#7f7f7f">Aug 2025 - Present</font>      
+<font color="#7f7f7f">Dalhousie University · On-site</font>   
 
+---
+
+![[images-modified.png|70]]
 ##### Volunteer — Guatemala Engineering Brigades (2025)   
 Global Brigades, Inc. Canada 
 <font color="#7f7f7f">Nov 2024 - May 2025</font>      
@@ -223,6 +236,16 @@ ACES - CEGA | Atlantic Engineering Competition (AEC) 2026
 <font color="#7f7f7f">Halifax, Nova Scotia, Canada · On-site</font>    
 
 - Leading in design of the 2025/2026 Competition Year's domain management & email systems, social working integration, and wireless access, alongside on-site management.
+
+---
+
+![[images-modified(1).png|70]]
+##### Lead Debate Moderator    
+Dalhousie University    
+<font color="#7f7f7f">October 2024 - April 2025</font>   
+<font color="#7f7f7f">Halifax, Nova Scotia, Canada · On-site</font>    
+
+![[1746045531387.jpg|230]] ![[1746045501659.jpg|230]] ![[1746045481653.jpg|230]]
 
 ---
 

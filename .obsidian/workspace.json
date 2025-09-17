@@ -11,12 +11,14 @@
             "id": "765b3fe23ce08d1c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Attachments - Uncompressed/DE/4.2 General Fourier.pdf"
+                "file": "aboutme.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "4.2 General Fourier"
+              "icon": "lucide-file",
+              "title": "aboutme"
             }
           },
           {
@@ -112,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a559db4c87f53fe9",
@@ -197,8 +200,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f7ea33b349b2bd73",
+  "active": "765b3fe23ce08d1c",
   "lastOpenFiles": [
+    "1746045481653.jpg",
+    "1746045501659.jpg",
+    "1746045531387.jpg",
+    "Attachments - Uncompressed/images-modified(1).png",
+    "cec_dal_2025_logo.jpg",
+    "Attachments - Uncompressed/DE/4.2 General Fourier.pdf",
     "aboutme.md",
     "index.md",
     "Attachments - Uncompressed/DE/1.1 Basic Theory.pdf",
@@ -211,7 +220,6 @@
     "Attachments - Uncompressed/DE/2.3 Vector Fields.pdf",
     "Attachments - Uncompressed/DE/3.1 Second Order Systems of DE's.pdf",
     "Attachments - Uncompressed/DE/3.2 Repeated Eigenvalues.pdf",
-    "Attachments - Uncompressed/DE/3.3 Matrix Exponentials.pdf",
     "Attachments - Uncompressed/Pasted image 20250816200809.png",
     "Attachments - Uncompressed/AEC_Big_Logo_No_Background.png",
     "1754007802192 1.jpg",
@@ -221,10 +229,6 @@
     "Physics/Electric Circuits/circuitsii.md",
     "Physics/Digital Circuits/digcirc.md",
     "Attachments - Uncompressed/Pasted image 20250517011853.png",
-    "Attachments - Uncompressed/1737301230527.jpg",
-    "Attachments - Uncompressed/1746044273450.jpg",
-    "Attachments - Uncompressed/images-modified.png",
-    "Attachments - Uncompressed/Screenshot 2025-03-31 223154.png",
     "Papers/importanceoffoss.md",
     "Papers/nationalcharge.md",
     "Math/Vector Calculus/vec.md",
