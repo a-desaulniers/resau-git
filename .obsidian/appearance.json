@@ -1,6 +1,7 @@
 {
   "accentColor": "#4fff4d",
   "enabledCssSnippets": [
-    "something"
+    "something",
+    "image-center"
   ]
 }

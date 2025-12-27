@@ -8,53 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "765b3fe23ce08d1c",
+            "id": "8e501da4eef7df97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About Me!  —  Alexandre DesAulniers.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "About Me!  —  Alexandre DesAulniers"
-            }
-          },
-          {
-            "id": "80c7a023faa27fa9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
-          },
-          {
-            "id": "2198328f7af7d58f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Attachments - Uncompressed/DE/Lecture 4, Models.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture 4, Models"
-            }
-          },
-          {
-            "id": "8e501da4eef7df97",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Attachments - Uncompressed/PXL_20241017_123411043.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "PXL_20241017_123411043"
+              "title": "index"
             }
           }
         ]
@@ -89,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "PXL_20240520_014321325-modified.png",
+                "query": "e285",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a559db4c87f53fe9",
@@ -192,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -200,37 +164,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "765b3fe23ce08d1c",
+  "active": "8e501da4eef7df97",
   "lastOpenFiles": [
-    "1746045481653.jpg",
-    "1746045501659.jpg",
-    "1746045531387.jpg",
-    "Attachments - Uncompressed/images-modified(1).png",
-    "cec_dal_2025_logo.jpg",
-    "Attachments - Uncompressed/DE/4.2 General Fourier.pdf",
+    "Papers/v2g-dal.md",
     "About Me!  —  Alexandre DesAulniers.md",
+    "Attachments/Pasted image 20251227175608.png",
+    "Attachments/Pasted image 20251227175424.png",
+    "Attachments/Pasted image 20251227175336.png",
+    "Pasted image 20251227175235.png",
+    "Attachments/Pasted image 20251227175207.png",
+    "Attachments/Pasted image 20251227175005.png",
+    "Attachments/Pasted image 20251227174914.png",
+    "Attachments/Pasted image 20251227174346.png",
+    "Pasted image 20251227174319.png",
+    "Attachments/Pasted image 20251227173502.png",
     "index.md",
+    "Attachments - Uncompressed/ECED3101 Power Systems — V2X Report.pdf",
+    "().md",
+    "PDF.md",
+    "Papers/nationalcharge.md",
+    "Papers/importanceoffoss.md",
+    "Attachments/~XL_20230809_155103802~3.tmp",
+    "Attachments/PXL_20230809_155103802~3.jpg.~tmp",
+    "Untitled.md",
+    "Pasted image 20251227150452.png.~tmp",
+    "Attachments - Uncompressed/DE/Lecture 4, Models.pdf",
+    "Pasted image 20251227145843.png.~tmp",
+    "Attachments - Uncompressed/Sketching Second Order DE's + Oscillio.pdf",
+    "Attachments - Uncompressed/DE/4.2 General Fourier.pdf",
     "Attachments - Uncompressed/DE/1.1 Basic Theory.pdf",
     "Attachments - Uncompressed/DE/1.1 Basic Theory.pdf",
     "Math/Applied Differential Equations/diffeq.md",
-    "Attachments - Uncompressed/DE/1.2 Non-Homogeneous DE's with Constant Coefficients.pdf",
-    "Attachments - Uncompressed/DE/1.3 Applications.pdf",
-    "Attachments - Uncompressed/DE/2.1 Systems of DE's.pdf",
-    "Attachments - Uncompressed/DE/2.2 Solving With Eigen.pdf",
-    "Attachments - Uncompressed/DE/2.3 Vector Fields.pdf",
-    "Attachments - Uncompressed/DE/3.1 Second Order Systems of DE's.pdf",
-    "Attachments - Uncompressed/DE/3.2 Repeated Eigenvalues.pdf",
-    "Attachments - Uncompressed/Pasted image 20250816200809.png",
-    "Attachments - Uncompressed/AEC_Big_Logo_No_Background.png",
-    "1754007802192 1.jpg",
-    "1754007802192.jpg",
-    "1754007802192-removebg-preview.png",
     "Homelab/Using Gmail SMTP with Cloudflare Email Routing. A Step-by-Step Guide.md",
     "Physics/Electric Circuits/circuitsii.md",
     "Physics/Digital Circuits/digcirc.md",
-    "Attachments - Uncompressed/Pasted image 20250517011853.png",
-    "Papers/importanceoffoss.md",
-    "Papers/nationalcharge.md",
     "Math/Vector Calculus/vec.md",
     "Math/Applied Probability and Statistics/stats.md",
     "Math/Applied Probability and Statistics/2 - Combinations and Permutations.md",
@@ -244,10 +211,6 @@
     "Math/Applied Probability and Statistics/7 - Random Variables Continued.md",
     "Math/Applied Probability and Statistics/6 - Random Variables, and the CDF.md",
     "Math/Applied Probability and Statistics/5 - Total Probability Theorem, and Event Trees.md",
-    "Math/Applied Probability and Statistics/4 - Independence vs Disjunction.md",
-    "Math/Applied Probability and Statistics/3 - Bayes Theorem, Conditional Probability, and More Examples.md",
-    "Math/Applied Probability and Statistics/1 - Probability Theory.md",
-    "Math/Applied Probability and Statistics/17 - Hypothesis Tests.md",
     "Attachments/Dalhousie Requirements and Outlines.canvas",
     "Math/Attachments/Dalhousie Requirements and Outlines.canvas"
   ]
