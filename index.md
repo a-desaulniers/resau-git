@@ -44,6 +44,7 @@ This site is being run on my Dell PowerEdge R715 homelab server, being routed th
 
 **My Academic Papers:**
 
+- [[v2g-dal|⚡A Network in Motion: The Promise and Practical Feasibility of Vehicle-to-Grid Communication. ]]
 -  [[nationalcharge|🚙 National Charge: Canadian Federal EV Standards Regulation]]
 -  [[importanceoffoss|🌐 The Vital Importance of FOSS: The GNU & Linux Operating System]]
 
