@@ -35,7 +35,7 @@ Please reach out to me at any point at a@desau.ca, and I would be happy to answe
 # Education 🏫
 
 ![[dalhousie_university_logo-modified.png |70]]
-<h5 style="padding:10px; margin:10px;">Dalhousie University</h5>   
+<h5 style="padding:10px; margin:1px;">Dalhousie University</h5>   
 Bachelor of Engineering — BE, Electrical and Electronics Engineering     
 <font color="#7f7f7f">Sep 2023 - Apr 2028 </font>  
 <font color="#7f7f7f">Halifax, Nova Scotia, Canada · On-site</font>
