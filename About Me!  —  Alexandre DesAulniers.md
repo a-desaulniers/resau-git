@@ -5,9 +5,10 @@ tags:
   - Introductions
 aliases:
 ---
+
+<p style="padding-bottom:10px;"></p>
 <center><h2>About Me!  —  Alexandre DesAulniers</h2></center>
 
-<p style="padding-top:10px;"></p>
 ![[DSC00282~2-modified.png|center|270]]
 
 <p style="padding-top:20px;"></p>
