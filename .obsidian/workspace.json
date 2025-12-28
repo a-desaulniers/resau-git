@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About Me!  —  Alexandre DesAulniers.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "About Me!  —  Alexandre DesAulniers"
+              "title": "index"
             }
           }
         ]
@@ -166,6 +166,7 @@
   },
   "active": "8e501da4eef7df97",
   "lastOpenFiles": [
+    "About Me!  —  Alexandre DesAulniers.md",
     "Attachments - Uncompressed/Pasted image 20241015090613.png.tmp",
     "Attachments - Uncompressed/Pasted image 20241015084508.png.tmp",
     "Attachments - Uncompressed/Pasted image 20241010091701.png.tmp",
@@ -176,11 +177,9 @@
     "Attachments - Uncompressed/Pasted image 20241008091656.png.tmp",
     "Attachments - Uncompressed/Pasted image 20241008085506.png.tmp",
     "Attachments - Uncompressed/Pasted image 20241003092748.png.tmp",
-    "Attachments - Uncompressed/Pasted image 20241003092437.png.tmp",
     "Papers/v2g-dal.md",
     "Papers/nationalcharge.md",
     "index.md",
-    "About Me!  —  Alexandre DesAulniers.md",
     "Attachments/Pasted image 20251227175608.png",
     "Attachments/Pasted image 20251227175424.png",
     "Attachments/Pasted image 20251227175336.png",
