@@ -232,8 +232,8 @@ Global Brigades, Inc. Canada
     With the help of Civil Engineers from Global Engineering Brigades — Honduras, a design for a redesigned water system was proposed, budgeted presented, and adapted to the needs of the people of Cruz De Santiago, community leaders, and accompanying local community organizations such as COCODE of Tecpán. Garmin GPS mapping and EPANET flow simulation were both heavily used throughout the community to mark entry and exit points, tank location, pressure testing, flow rates, and adaptation of pre-existing infrastructure, along with individual surveying of every home, ensuring the correct community needs were met.
     
     
-![[1746119511060.jpg]]![[1746044273450.jpg]]![[1746044217345.jpg]]
-![[1746044095919.jpg]]![[1746044026178.jpg]]![[1746044055484.jpg]]
+![[1746119511060.jpg|small]]![[1746044273450.jpg|small]]![[1746044217345.jpg|small]]
+![[1746044095919.jpg|small]]![[1746044026178.jpg|small]]![[1746044055484.jpg|small]]
 
 ---
 
