@@ -222,7 +222,7 @@ Global Brigades, Inc. Canada
 
 ![[images-modified.png|70]]
 
-<p style='padding-bottom:3px'></p>
+<p style='padding-bottom:-10px'></p>
 
 ##### Volunteer — Guatemala Engineering Brigades (2025)
 Global Brigades, Inc. Canada       
