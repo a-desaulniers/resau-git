@@ -1,5 +1,5 @@
 ---
-title: Welcome To The Greenhouse
+title: Home
 draft: false
 tags:
   - Introductions
@@ -8,8 +8,6 @@ tags:
 <div class="center-text">
 <b>My name is Alexandre, and I am a third year Electrical Engineering student at Dalhousie University 🐯 </b>
 </div>
-
----
 
 ![[PXL_20230809_155103802~3.jpg]]
 
