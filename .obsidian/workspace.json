@@ -15,7 +15,7 @@
               "state": {
                 "file": "About Me!  —  Alexandre DesAulniers.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "About Me!  —  Alexandre DesAulniers"
@@ -166,6 +166,7 @@
   },
   "active": "8e501da4eef7df97",
   "lastOpenFiles": [
+    "Attachments - Uncompressed/Pasted image 20241018132622.png.tmp",
     "index.md",
     "Attachments - Uncompressed/Pasted image 20241017092111.png.tmp",
     "Attachments - Uncompressed/Pasted image 20241017090009.png.tmp",
