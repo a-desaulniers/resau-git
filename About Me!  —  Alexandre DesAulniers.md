@@ -217,13 +217,7 @@ Global Brigades, Inc. Canada
 
 ---
 
-
-<p style='padding-top:3px'></p>
-
 ![[images-modified.png|70]]
-
-<p style='padding-bottom:-10px'></p>
-
 ##### Volunteer — Guatemala Engineering Brigades (2025)
 Global Brigades, Inc. Canada       
 <font color="#7f7f7f">Nov 2024 - May 2025</font>      
