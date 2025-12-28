@@ -205,6 +205,7 @@ Dalhousie University
 I am proud to fight for student funding, identity, community, opportunity, and belonging!
 
 ![[Untitled-min.png]]
+
 ---
 
 ![[images-modified.png|70]]
@@ -217,11 +218,11 @@ Global Brigades, Inc. Canada
 ---
 
 
-<p style='padding-top:20px'></p>
+<p style='padding-top:3px'></p>
 
 ![[images-modified.png|70]]
 
-<p style='padding-bottom:30px'></p>
+<p style='padding-bottom:3px'></p>
 
 ##### Volunteer — Guatemala Engineering Brigades (2025)
 Global Brigades, Inc. Canada       
