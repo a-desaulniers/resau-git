@@ -9,7 +9,7 @@ aliases:
 
 ![[DSC00282~2-modified.png|center|270]]
 
-<p style="padding-top:10px;"></p>
+<p style="padding-top:20px;"></p>
 
 I am a student at Dalhousie University, enrolled in a bachelors of Electrical & Electronics Engineering, specializing in Power Systems and Compute Infrastructure.. I am an active member of Dalhousie Student government, maintain one of many side projects, work with various humanitarian aid groups, and work hard to be an active member of my communities. You can find an alternative profile on my [LinkedIn](https://www.linkedin.com/in/alex-desau/).
 
