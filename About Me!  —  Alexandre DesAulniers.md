@@ -6,7 +6,6 @@ tags:
 aliases:
 ---
 
-<p style="padding-bottom:10px;"></p>
 <center><h2>About Me!  —  Alexandre DesAulniers</h2></center>
 
 &nbsp;
