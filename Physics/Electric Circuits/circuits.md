@@ -25,12 +25,12 @@ An accompanying [YouTube](https://www.youtube.com/@hamedaly4608/videos)series cr
 ##### Lecture Notes
 
 - [[Lecture 1.pdf|1 - Introduction to Electric Circuits]]
-- [[Attachments - Uncompressed/Lecture 2.pdf|2 - Voltage and Current Sources, Ohm's, Kirchoff's]]
-- [[Attachments - Uncompressed/Lecture 3.pdf|3 - Resistor Networks & Power]]
-- [[Attachments - Uncompressed/Lecture 4.pdf|4 - Voltage & Current Divider]]
-- [[Attachments - Uncompressed/Lecture 5.pdf|5 - Open, Shorted Circuits & Delta/Wye Connections]]
-- [[Attachments - Uncompressed/Lecture 6.pdf|6 - Nodal Analysis (NVM)]]
-- [[Attachments - Uncompressed/Lecture 7.pdf|7 - NVM Continued & Super Node]]
+- [[Attachments - Uncompressed/ECED/Lectures/Lecture 2.pdf|2 - Voltage and Current Sources, Ohm's, Kirchoff's]]
+- [[Attachments - Uncompressed/ECED/Lectures/Lecture 3.pdf|3 - Resistor Networks & Power]]
+- [[Attachments - Uncompressed/ECED/Lectures/Lecture 4.pdf|4 - Voltage & Current Divider]]
+- [[Attachments - Uncompressed/ECED/Lectures/Lecture 5.pdf|5 - Open, Shorted Circuits & Delta/Wye Connections]]
+- [[Attachments - Uncompressed/ECED/Lectures/Lecture 6.pdf|6 - Nodal Analysis (NVM)]]
+- [[Attachments - Uncompressed/ECED/Lectures/Lecture 7.pdf|7 - NVM Continued & Super Node]]
 - [[Lecture 8.pdf|8 - Mesh Analysis (MCM, SuperMesh & Source Substitution)]]
 - [[Lecture 9.pdf|9 - Thevenin & Norton's Theorem's, Superposition Theorem]]
 - [[Lecture 10.pdf|10 - Thevenin & Norton's Theorem's Cont'd & Maximum Power Transfer]]
